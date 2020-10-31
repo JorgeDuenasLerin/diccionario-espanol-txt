@@ -429,6 +429,7 @@ varitero
 variz
 varizo
 varo
+varón
 varona
 varonesa
 varonía
@@ -741,9 +742,11 @@ velocipedismo
 velocipedista
 velocípedo
 velocista
+velódromo
 velofaríngea
 velofaríngeo
 velomotor
+velón
 velonera
 velonero
 velorio
@@ -1065,6 +1068,7 @@ verdinoso
 verdiseca
 verdiseco
 verdolaga
+verdón
 verdor
 verdosa
 verdoso
@@ -1170,6 +1174,7 @@ veronal
 veronense
 veronés
 veronesa
+verónica
 veroniquear
 verosímil
 verosimilitud
@@ -1819,7 +1824,12 @@ viroleño
 virolenta
 virolento
 virolo
+viróloga
 virología
+virólogo
+virón
+virósica
+virósico
 virosis
 virotazo
 virote
@@ -1904,6 +1914,7 @@ viso
 visogoda
 visogodo
 visomotriz
+visón
 visontina
 visontino
 visor
@@ -2180,13 +2191,17 @@ volcar
 volea
 volear
 voleibol
+vóleibol
 voleo
+vóley
+vóley-playa
 volframio
 volición
 volido
 volitar
 volitiva
 volitivo
+volón
 volován
 volquearse
 volqueta
@@ -2253,6 +2268,10 @@ volvedora
 volver
 volvible
 volvo
+vólvulo
+vómer
+vómica
+vómico
 vomipurgante
 vomipurgativa
 vomipurgativo
@@ -2266,6 +2285,7 @@ vomitel
 vomitera
 vomitiva
 vomitivo
+vómito
 vomitón
 vomitona
 vomitoria
@@ -2280,6 +2300,7 @@ vorahúnda
 voraz
 vorazmente
 vormela
+vórtice
 vorticela
 vortiginosa
 vortiginoso

@@ -140,6 +140,7 @@ machista
 machito
 machitún
 macho
+machón
 machona
 machorra
 machorro
@@ -176,6 +177,7 @@ macoca
 macolla
 macollar
 macollo
+macón
 macona
 macondo
 macopa
@@ -899,6 +901,7 @@ malojera
 malojero
 malojo
 maloliente
+malón
 maloquear
 malosa
 maloso
@@ -1054,6 +1057,7 @@ mamila
 mamilar
 mamita
 mamografía
+mamógrafo
 mamola
 mamón
 mamona
@@ -1465,6 +1469,7 @@ manoletina
 manolo
 manométrica
 manométrico
+manómetro
 manopla
 manorreductor
 mañosa
@@ -1942,7 +1947,10 @@ marino
 marinovia
 marinovio
 mariol
+marióloga
 mariología
+mariólogo
+marión
 mariona
 marioneta
 marionetista
@@ -2031,6 +2039,7 @@ maromear
 maromera
 maromero
 maromo
+marón
 maronita
 marota
 marote
@@ -2246,6 +2255,8 @@ masoca
 masón
 masona
 masonería
+masónica
+masónico
 masoquismo
 masoquista
 masora
@@ -3041,6 +3052,8 @@ melocotón
 melocotonar
 melocotonero
 melodía
+melódica
+melódico
 melodiosa
 melodiosamente
 melodioso
@@ -3057,7 +3070,10 @@ meloja
 melojar
 melojo
 melolonta
+melómana
 melomanía
+melómano
+melón
 melona
 melonada
 melonar
@@ -3518,6 +3534,7 @@ merol
 merolica
 merolico
 meronimia
+merónimo
 merovingia
 merovingio
 mersa
@@ -3590,6 +3607,7 @@ mesodérmico
 mesodermo
 mesolítica
 mesolítico
+mesón
 mesonaje
 mesonera
 mesonero
@@ -3599,6 +3617,7 @@ mesopausa
 mesopotámica
 mesopotámico
 mesosfera
+mesósfera
 mesoterapia
 mesotórax
 mesotrofia
@@ -3790,6 +3809,9 @@ metilo
 metimiento
 metisaca
 metlapil
+metódica
+metódicamente
+metódico
 metodismo
 metodista
 metodizar
@@ -3968,17 +3990,22 @@ microfito
 micrófito
 microfónica
 microfónico
+micrófono
 microfotografía
 microfotográfica
 microfotográfico
+micrógrafa
 micrografía
 micrográfica
 micrográfico
+micrógrafo
 microgravedad
 micromanipulador
 micrométrica
 micrométrico
+micrómetro
 micromotor
+micrón
 micronesia
 micronesio
 micronizar
@@ -4522,7 +4549,9 @@ mismamente
 mismidad
 mismo
 miso
+misógina
 misoginia
+misógino
 misoneísmo
 misoneísta
 míspero
@@ -4736,6 +4765,7 @@ modelista
 modelización
 modelizar
 modelo
+módem
 modenés
 modenesa
 moderación
@@ -4768,7 +4798,10 @@ modesta
 modestamente
 modestia
 modesto
+módica
+módicamente
 modicidad
+módico
 modificable
 modificación
 modificador
@@ -4803,6 +4836,7 @@ modulador
 moduladora
 modular
 modularidad
+módulo
 modulosa
 moduloso
 modurria
@@ -5060,6 +5094,7 @@ monacato
 monacillo
 monacordio
 monada
+mónada
 monadelfo
 monadología
 monago
@@ -5098,6 +5133,8 @@ mondonguera
 mondonguería
 mondonguero
 mondonguil
+móndriga
+móndrigo
 monear
 monecillo
 moneda
@@ -5112,6 +5149,7 @@ monegasca
 monegasco
 monema
 monera
+mónera
 monería
 monesca
 monesco
@@ -5150,6 +5188,7 @@ monismo
 monista
 moñista
 moñita
+mónita
 monito
 monitor
 monitora
@@ -5195,9 +5234,13 @@ monocromática
 monocromático
 monocromía
 monocromo
+monócula
 monocular
+monóculo
 monocultivo
 monodia
+monódica
+monódico
 monofásica
 monofásico
 monofila
@@ -5208,9 +5251,11 @@ monofonemática
 monofonemático
 monofónica
 monofónico
+monógama
 monogamia
 monogámica
 monogámico
+monógamo
 monogenismo
 monogenista
 monografía
@@ -5228,6 +5273,7 @@ monolito
 monologal
 monologante
 monologar
+monólogo
 monomando
 monomanía
 monomaniaca
@@ -5267,6 +5313,8 @@ monopolizador
 monopolizadora
 monopolizar
 monopsonio
+monóptera
+monóptero
 monoptongación
 monoptongar
 monoptongo
@@ -5290,6 +5338,7 @@ monosílabo
 monospastos
 monosperma
 monospermo
+monóstrofe
 monostrófica
 monostrófico
 monote
@@ -5302,12 +5351,17 @@ monotemática
 monotemático
 monotipia
 monotipo
+monótona
+monótonamente
 monotonía
+monótono
 monotrema
 monovalente
 monovera
 monovero
 monovolumen
+monóxido
+monóxilo
 monra
 monse
 monseñor
@@ -5397,6 +5451,7 @@ montillana
 montillano
 montiña
 monto
+montón
 montonal
 montonera
 montonero
@@ -5487,8 +5542,10 @@ moratoria
 morava
 moravo
 morazanense
+mórbida
 morbidez
 morbideza
+mórbido
 morbífica
 morbífico
 morbilidad
@@ -5542,6 +5599,7 @@ mordiscar
 mordisco
 mordisquear
 mordisqueo
+mórea
 moreda
 morelense
 moreliana
@@ -5556,6 +5614,7 @@ morenillo
 morenito
 moreno
 morenura
+móreo
 morera
 moreral
 morería
@@ -5735,6 +5794,7 @@ morucho
 morueco
 moruga
 morugo
+mórula
 moruna
 moruno
 moruro
@@ -5867,6 +5927,7 @@ motociclístico
 motocross
 motolita
 motolito
+motón
 motonave
 motonería
 motoneta
@@ -5875,6 +5936,8 @@ motoniveladora
 motopesquero
 motor
 motora
+motórica
+motórico
 motorismo
 motorista
 motorización
@@ -5906,6 +5969,7 @@ movido
 movidosa
 movidoso
 moviente
+móvil
 movilidad
 movilización
 movilizar

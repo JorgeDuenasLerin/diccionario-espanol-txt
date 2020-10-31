@@ -578,6 +578,7 @@ zoantropía
 zoca
 zocada
 zocado
+zócalo
 zocar
 zocas
 zocata
@@ -587,6 +588,7 @@ zoclo
 zoco
 zocola
 zocolar
+zódiac
 zodiacal
 zodiaco
 zodíaco
@@ -638,10 +640,15 @@ zonzorrión
 zonzorriona
 zonzorro
 zoo
+zoófaga
+zoófago
+zoófila
 zoofilia
 zoofílica
 zoofílico
+zoófilo
 zoofito
+zoófito
 zoofobia
 zoogeografía
 zoogeográfica
@@ -650,14 +657,18 @@ zoografía
 zoográfica
 zoográfico
 zooide
+zoólatra
 zoolatría
+zoóloga
 zoología
 zoológica
 zoológico
+zoólogo
 zoomorfa
 zoomórfica
 zoomórfico
 zoomorfo
+zoónimo
 zoonosis
 zooplancton
 zoopsicología
@@ -667,6 +678,7 @@ zootecnia
 zootécnica
 zootécnico
 zootomía
+zoótropo
 zopa
 zopas
 zope
@@ -736,6 +748,7 @@ zorzaleña
 zorzaleño
 zorzalero
 zoster
+zóster
 zotal
 zote
 zotol

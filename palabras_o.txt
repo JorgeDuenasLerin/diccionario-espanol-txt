@@ -753,6 +753,8 @@ olmedana
 olmedano
 olmedo
 olmo
+ológrafa
+ológrafo
 olomina
 olor
 olorizar
@@ -921,6 +923,7 @@ oolítica
 oolítico
 oolito
 oosfera
+oósfera
 opa
 opaca
 opacamente
@@ -1009,6 +1012,7 @@ oportuno
 oposición
 oposicionista
 opositar
+opósito
 opositor
 opositora
 opoterapia
@@ -1343,6 +1347,7 @@ orogénico
 orografía
 orográfica
 orográfico
+orón
 oronda
 orondada
 orondado
@@ -1351,6 +1356,7 @@ orondo
 oronimia
 oronímica
 oronímico
+orónimo
 oronja
 oropel
 oropelero

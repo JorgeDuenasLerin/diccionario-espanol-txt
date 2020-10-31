@@ -119,6 +119,7 @@ baciyélmico
 baciyelmo
 backgammon
 backstage
+bacón
 baconiana
 baconiano
 bacoreta
@@ -496,6 +497,7 @@ balo
 balompédica
 balompédico
 balompié
+balón
 balonazo
 baloncestista
 baloncestística
@@ -969,10 +971,12 @@ barnizadora
 barnizadura
 barnizar
 baro
+barógrafo
 barojiana
 barojiano
 barométrica
 barométrico
+barómetro
 barón
 baronesa
 baronía
@@ -1100,6 +1104,7 @@ barro
 barroca
 barrocho
 barroco
+barrón
 barroquismo
 barroquización
 barroquizante
@@ -1326,6 +1331,7 @@ bato
 batola
 batolito
 batología
+batón
 batracio
 batúa
 batucada
@@ -2283,18 +2289,22 @@ biogeografía
 biogeográfica
 biogeográfico
 biogeógrafo
+biógrafa
 biografía
 biografiada
 biografiado
 biografiar
 biográfica
 biográfico
+biógrafo
 bioinformática
 bioinformático
+bióloga
 biología
 biológica
 biológico
 biologismo
+biólogo
 bioluminiscencia
 bioluminiscente
 bioma
@@ -2311,6 +2321,8 @@ biométrica
 biométrico
 biomimetismo
 bionda
+biónica
+biónico
 biopolímero
 bioprótesis
 biopsia
@@ -2322,6 +2334,7 @@ biosanitaria
 biosanitario
 biosensor
 biosfera
+biósfera
 biosíntesis
 biosociología
 biota
@@ -2331,11 +2344,14 @@ biotecnológica
 biotecnológico
 biotecnólogo
 bioterapia
+biótica
+biótico
 biotipo
 biotipología
 biotipológica
 biotipológico
 biotopo
+bióxido
 bipartición
 bipartida
 bipartidismo
@@ -2711,6 +2727,7 @@ bobear
 bobedad
 bobera
 bobería
+bóbilis
 bobillo
 bobina
 bobinado
@@ -2817,11 +2834,13 @@ bodoquera
 bodorrio
 bodrio
 body
+bóer
 boezuelo
 bofa
 bofarse
 bofe
 bofena
+bófeta
 bofetada
 bofetán
 bofetón
@@ -2924,6 +2943,7 @@ bolicheo
 bolichera
 bolichero
 bolicho
+bólido
 bolígrafo
 bolihoyo
 bolilla
@@ -2967,6 +2987,7 @@ bollonado
 bolo
 bolola
 bololo
+bolón
 boloñés
 boloñesa
 bolonio
@@ -3029,6 +3050,7 @@ bombonaje
 bombonera
 bombonería
 bomborombillos
+bómper
 bon
 bona
 bonachón
@@ -3167,6 +3189,7 @@ boquituerto
 boratera
 boratero
 borato
+bórax
 borbolla
 borbollar
 borbollear
@@ -3216,6 +3239,8 @@ bordonería
 bordonero
 bordura
 boreal
+bóreas
+bóreo
 borgeana
 borgeano
 borgiana
@@ -3230,6 +3255,7 @@ borguil
 boria
 boricada
 boricado
+bórico
 boricua
 borincana
 borincano
@@ -3317,6 +3343,7 @@ borriquete
 borro
 borrominesca
 borrominesco
+borrón
 borroncillo
 borronear
 borroñosa
@@ -3467,6 +3494,7 @@ botoral
 botosa
 botoso
 bototo
+bótox
 botrino
 botsuana
 botsuano
@@ -3479,7 +3507,10 @@ boutade
 boutique
 bovaje
 bovático
+bóveda
 bovedilla
+bóvida
+bóvido
 bovina
 bovino
 box
@@ -3487,6 +3518,7 @@ boxeador
 boxeadora
 boxear
 boxeo
+bóxer
 boxística
 boxístico
 boxita
@@ -3778,7 +3810,9 @@ brío
 briocense
 brioche
 briofita
+briófita
 briofito
+briófito
 briol
 brionia
 bríos
@@ -3835,8 +3869,13 @@ brocho
 brochón
 brochure
 brocino
+brócol
+brócoli
+brócul
+bróculi
 brodio
 brodista
+bróker
 brollador
 brolladora
 brollar
@@ -3897,6 +3936,7 @@ broquelazo
 broquelero
 broquelillo
 broqueta
+bróquil
 brosla
 broslador
 brosladura
@@ -3907,9 +3947,11 @@ brotación
 brotada
 brotado
 brotadura
+brótano
 brotar
 brote
 broto
+brótola
 brotón
 broza
 brozador
@@ -4213,6 +4255,7 @@ bullidora
 bullir
 bullón
 bulo
+bulón
 bulto
 bululú
 bum
@@ -4313,7 +4356,9 @@ burlón
 burlona
 burlote
 buro
+buró
 burocracia
+burócrata
 burocrática
 burocrático
 burocratismo

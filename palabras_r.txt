@@ -218,13 +218,16 @@ radioisótopo
 radiola
 radiolario
 radiolocalización
+radióloga
 radiología
 radiológica
 radiológico
+radiólogo
 radioluminiscencia
 radioluminiscente
 radiomensaje
 radiometría
+radiómetro
 radionavegación
 radionovela
 radionucleido
@@ -269,6 +272,7 @@ radiotóxico
 radiotransmisor
 radioyente
 radiumterapia
+radón
 raedera
 raediza
 raedizo
@@ -414,6 +418,7 @@ rámnea
 rámneo
 ramo
 ramojo
+ramón
 ramona
 ramonear
 ramoneo
@@ -1403,7 +1408,9 @@ reconciliar
 reconcomer
 reconcomio
 recondenar
+recóndita
 reconditez
+recóndito
 reconducción
 reconducir
 reconfortante
@@ -1448,6 +1455,7 @@ recopilar
 recopilatoria
 recopilatorio
 recoquín
+recórcholis
 récord
 recordable
 recordación
@@ -2825,8 +2833,11 @@ reobrar
 reoca
 reoctava
 reoctavar
+reóforo
+reógrafo
 reojo
 reología
+reómetro
 reordenar
 reorganización
 reorganizador
@@ -2835,6 +2846,7 @@ reorganizar
 reorientación
 reorientar
 reostato
+reóstato
 repacer
 repagar
 repajo
@@ -2993,11 +3005,13 @@ repobladora
 repoblar
 repodar
 repodrir
+repóker
 repollar
 repollo
 repolluda
 repolludo
 reponer
+repóquer
 reportación
 reportaje
 reportamiento
@@ -3098,9 +3112,11 @@ reproductiva
 reproductivo
 reproductor
 reproductora
+reprógrafa
 reprografía
 reprográfica
 reprográfico
+reprógrafo
 repromisión
 repropia
 repropiarse
@@ -3731,8 +3747,11 @@ retorcijar
 retorcijo
 retorcijón
 retorcimiento
+retórica
 retoricadamente
+retóricamente
 retoricar
+retórico
 retornable
 retornamiento
 retornar
@@ -3827,8 +3846,10 @@ retroceso
 retrocuenta
 retrofleja
 retroflejo
+retrógrada
 retrogradación
 retrogradar
+retrógrado
 retroguardia
 retronar
 retropié
@@ -4058,6 +4079,7 @@ revolvedero
 revolvedor
 revolvedora
 revolver
+revólver
 revolvimiento
 revoque
 revotarse
@@ -4405,6 +4427,7 @@ robador
 robadora
 robaliza
 robalo
+róbalo
 robancina
 robapelo
 robaperas
@@ -4443,6 +4466,7 @@ roborar
 roborativa
 roborativo
 robot
+robótica
 robotización
 robotizar
 robra
@@ -4515,6 +4539,7 @@ rock and roll
 rockódromo
 roco
 rococó
+rocódromo
 rocola
 rocolo
 rocosa
@@ -4696,6 +4721,8 @@ romanzadora
 romanzar
 romaza
 rombal
+rómbica
+rómbico
 rombo
 romboédrica
 romboédrico
@@ -4874,10 +4901,12 @@ roscado
 roscar
 rosco
 roscón
+rósea
 rosear
 rosedal
 rosellonés
 rosellonesa
+róseo
 roséola
 rosera
 rosero
@@ -4897,6 +4926,7 @@ rosmaro
 roso
 rosoli
 rosolí
+rosón
 rosqueada
 rosqueado
 rosquear
@@ -4938,12 +4968,15 @@ rotatorio
 roten
 rotería
 roterodamense
+rótica
+rótico
 rotisería
 roto
 rotonda
 rotor
 rotosa
 rotoso
+rótula
 rotulación
 rotulado
 rotulador
@@ -4953,6 +4986,7 @@ rotulata
 rotuliana
 rotuliano
 rotulista
+rótulo
 rotunda
 rotundamente
 rotundez

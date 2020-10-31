@@ -971,6 +971,7 @@ demiúrgico
 demiurgo
 demo
 democracia
+demócrata
 democratacristiana
 democratacristiano
 democrática
@@ -986,9 +987,11 @@ demodulación
 demodulador
 demoduladora
 demodular
+demógrafa
 demografía
 demográfica
 demográfico
+demógrafo
 demoledor
 demoledora
 demoler
@@ -1033,6 +1036,7 @@ demoscopía
 demoscópica
 demoscópico
 demosofía
+demóstenes
 demostina
 demostino
 demostrable
@@ -1043,6 +1047,8 @@ demostranza
 demostrar
 demostrativa
 demostrativo
+demótica
+demótico
 demudación
 demudamiento
 demudar
@@ -1238,6 +1244,7 @@ depositar
 depositaria
 depositaría
 depositario
+depósito
 depravación
 depravada
 depravado
@@ -2429,7 +2436,9 @@ descomedimiento
 descomedirse
 descomer
 descomimiento
+descómoda
 descomodidad
+descómodo
 descompadrar
 descompaginar
 descompás
@@ -4399,6 +4408,8 @@ despostar
 desposte
 despostillar
 déspota
+despótica
+despótico
 despotiquez
 despotismo
 despotizar
@@ -5000,6 +5011,8 @@ devolutivo
 devolver
 devoniana
 devoniano
+devónica
+devónico
 devoración
 devorador
 devoradora
@@ -5662,6 +5675,8 @@ dintelar
 dintorno
 diocesana
 diocesano
+diócesi
+diócesis
 diodo
 diofántica
 dioica
@@ -5674,6 +5689,8 @@ dionisiaco
 dionisíaco
 dioptra
 dioptría
+dióptrica
+dióptrico
 diorama
 diorita
 dios
@@ -5684,6 +5701,7 @@ dioscoreáceo
 dioscóreo
 diosma
 diostedé
+dióxido
 dipétala
 dipétalo
 diple
@@ -6036,6 +6054,7 @@ disoluto
 disolvencia
 disolvente
 disolver
+disón
 dísona
 disonancia
 disonante
@@ -6334,6 +6353,7 @@ diyámbico
 diyambo
 dizque
 do
+dóberman
 dobla
 doblada
 dobladamente
@@ -6385,8 +6405,10 @@ docetismo
 docible
 docientas
 docientos
+dócil
 docilidad
 docilitar
+dócilmente
 docimasia
 docimástica
 docimástico
@@ -6465,6 +6487,7 @@ dolaje
 dolama
 dolame
 dolar
+dólar
 dolarización
 dolarizarse
 dolencia
@@ -6476,6 +6499,7 @@ dolida
 dolido
 doliente
 dolina
+dóllimo
 dolmán
 dolmen
 dolménica
@@ -6486,6 +6510,7 @@ dolomía
 dolomita
 dolomítica
 dolomítico
+dólope
 dolor
 dolora
 dolorida
@@ -6537,6 +6562,7 @@ dominar
 dominativa
 dominativo
 dominatriz
+dómine
 domingada
 domingo
 dominguejo
@@ -6556,7 +6582,10 @@ dominio
 dominiqués
 dominiquesa
 dominó
+dómino
 domo
+domótica
+domótico
 dompedro
 don
 dona
@@ -6614,6 +6643,7 @@ donosura
 donquijotesca
 donquijotesco
 dontancredismo
+dónut
 dopa
 dopado
 dopaje
@@ -6635,6 +6665,8 @@ doradura
 doral
 dorar
 doria
+dórica
+dórico
 dorio
 dormán
 dormición
