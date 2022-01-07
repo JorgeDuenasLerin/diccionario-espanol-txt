@@ -62,6 +62,7 @@ rabiosamente
 rabioso
 rabipelado
 rabisalsera
+rabisalsero
 rábita
 rabiza
 rabo
@@ -195,6 +196,8 @@ radioemisora
 radioenlace
 radioescucha
 radiofaro
+radiofísica
+radiofísico
 radiofonía
 radiofónica
 radiofónico
@@ -296,8 +299,8 @@ raga
 ragadía
 raglan
 raglán
-ragtime
 rag-time
+ragtime
 ragú
 ragua
 ragusea
@@ -615,6 +618,7 @@ rascabuchear
 rascacielos
 rascacio
 rascadera
+rascado
 rascador
 rascadura
 rascalino
@@ -851,6 +855,7 @@ reactante
 reactiva
 reactivación
 reactivar
+reactividad
 reactivo
 reactor
 reacuñación
@@ -889,6 +894,8 @@ realimentación
 realimentar
 realismo
 realista
+realística
+realístico
 realito
 reality
 reality show
@@ -910,7 +917,10 @@ realzado
 realzar
 reamar
 reanimación
+reanimador
+reanimadora
 reanimar
+reaños
 reanudación
 reanudar
 reaparecer
@@ -1052,6 +1062,8 @@ rebozo
 rebramar
 rebramo
 rebrillo
+rebrincada
+rebrincado
 rebrincar
 rebrotar
 rebrote
@@ -1066,6 +1078,7 @@ rebujal
 rebujar
 rebujina
 rebujiña
+rebujito
 rebujo
 rebulicio
 rebullicio
@@ -1399,12 +1412,17 @@ recomprar
 recompuesta
 recompuesto
 reconcentración
+reconcentrada
+reconcentrado
 reconcentramiento
 reconcentrar
+reconciliable
 reconciliación
 reconciliador
 reconciliadora
 reconciliar
+reconciliatoria
+reconciliatorio
 reconcomer
 reconcomio
 recondenar
@@ -1413,6 +1431,8 @@ reconditez
 recóndito
 reconducción
 reconducir
+reconfortador
+reconfortadora
 reconfortante
 reconfortar
 reconocedor
@@ -1446,6 +1466,7 @@ reconvencional
 reconvenir
 reconversión
 reconvertir
+recopiar
 recopilación
 recopilada
 recopilado
@@ -1494,6 +1515,8 @@ recovero
 recre
 recreable
 recreación
+recreador
+recreadora
 recrear
 recreativa
 recreativo
@@ -1619,6 +1642,7 @@ redecilla
 redecir
 redecorar
 rededor
+redefinición
 redefinir
 redejón
 redel
@@ -1651,12 +1675,16 @@ redil
 redilar
 redilear
 redileo
+redimensión
+redimensionamiento
+redimensionar
 redimible
 redimidor
 redimidora
 redimir
 redingote
 rediós
+redireccionar
 redistribución
 redistribuir
 redistributiva
@@ -1718,6 +1746,8 @@ redrosaca
 redroviento
 redruejo
 reducción
+reduccionismo
+reduccionista
 reducible
 reducida
 reducido
@@ -1726,6 +1756,8 @@ reducidora
 reducimiento
 reducir
 reductible
+reductiva
+reductivo
 reducto
 reductor
 reductora
@@ -1791,6 +1823,8 @@ reescritura
 reestrenar
 reestreno
 reestructuración
+reestructurador
+reestructuradora
 reestructurar
 reexaminación
 reexaminar
@@ -1844,6 +1878,7 @@ refinador
 refinadora
 refinadura
 refinamiento
+refinanciar
 refinar
 refinería
 refino
@@ -1904,6 +1939,8 @@ reformatoria
 reformatorio
 reformismo
 reformista
+reformulación
+reformular
 reforzada
 reforzado
 reforzador
@@ -2224,6 +2261,8 @@ reherimiento
 reherir
 reherrar
 rehervir
+rehidratación
+rehidratar
 rehilada
 rehiladillo
 rehilado
@@ -2748,6 +2787,8 @@ renegado
 renegador
 renegadora
 renegar
+renegociación
+renegociar
 renegón
 renegona
 renegrear
@@ -2926,6 +2967,7 @@ repentina
 repentinamente
 repentino
 repentirse
+repentismo
 repentista
 repentización
 repentizador
@@ -2993,6 +3035,7 @@ réplica
 replicación
 replicador
 replicadora
+replicante
 replicar
 replicato
 replicón
@@ -3010,6 +3053,8 @@ repollar
 repollo
 repolluda
 repolludo
+reponedor
+reponedora
 reponer
 repóquer
 reportación
@@ -3227,6 +3272,7 @@ resalga
 resalir
 resallar
 resallo
+resaltable
 resaltador
 resaltar
 resalte
@@ -3266,6 +3312,7 @@ rescatar
 rescate
 rescatista
 rescaza
+resciliación
 rescindible
 rescindir
 rescisión
@@ -3484,6 +3531,7 @@ respondidamente
 respondón
 respondona
 responsabilidad
+responsabilización
 responsabilizar
 responsable
 responsablemente
@@ -3520,6 +3568,7 @@ restablecer
 restablecimiento
 restada
 restado
+restallante
 restallar
 restallido
 restañadero
@@ -3610,7 +3659,9 @@ resurtida
 resurtir
 resurtiva
 resurtivo
+retablera
 retablero
+retablista
 retablo
 retaca
 retacar
@@ -3657,6 +3708,8 @@ retardado
 retardador
 retardadora
 retardar
+retardataria
+retardatario
 retardativa
 retardativo
 retardatoria
@@ -3710,7 +3763,10 @@ retinglar
 retiniana
 retiniano
 retiñir
+retinitis
 retinol
+retinopatía
+retinosis
 retinta
 retinte
 retintín
@@ -3811,6 +3867,7 @@ retratador
 retratadora
 retratar
 retratería
+retratismo
 retratista
 retrato
 retrayente
@@ -3869,6 +3926,7 @@ retrovender
 retrovendición
 retroventa
 retroversión
+retroviral
 retrovirus
 retrovisor
 retrucar
@@ -3893,6 +3951,8 @@ reumático
 reumátide
 reumatismo
 reumatoide
+reumatoidea
+reumatoideo
 reumatóloga
 reumatología
 reumatológica
@@ -3922,6 +3982,8 @@ revaluar
 revancha
 revanchismo
 revanchista
+revascularización
+revascularizar
 revecera
 revecero
 reveedor
@@ -4327,6 +4389,7 @@ ripiosa
 ripioso
 ripostar
 riqueza
+ris
 risa
 risada
 risaraldeña
@@ -4467,6 +4530,7 @@ roborativa
 roborativo
 robot
 robótica
+robótico
 robotización
 robotizar
 robra
@@ -4618,6 +4682,7 @@ roedura
 roel
 roela
 roentgen
+roentgenio
 roer
 roete
 rogación
@@ -4642,6 +4707,8 @@ rojeta
 rojete
 rojeto
 rojez
+rojigualda
+rojigualdo
 rojilla
 rojillo
 rojiza
@@ -4764,6 +4831,7 @@ rompelona
 rompenecios
 rompenueces
 rompeolas
+rompepelotas
 rompepoyos
 romper
 rompesacos
@@ -4965,6 +5033,8 @@ rotativa
 rotativo
 rotatoria
 rotatorio
+rotaviral
+rotavirus
 roten
 rotería
 roterodamense

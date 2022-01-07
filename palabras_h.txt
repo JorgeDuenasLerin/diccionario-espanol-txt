@@ -153,12 +153,13 @@ hagiográfico
 hagiógrafo
 hagiónimo
 haiga
-haikai
 hai-kai
+haikai
 haiku
 haikú
 haitiana
 haitiano
+haketía
 hala
 halacabuyas
 halacuerdas
@@ -373,7 +374,7 @@ hartón
 hartona
 hartura
 hasaní
-hassio
+hasio
 hasta
 hastial
 hastiar
@@ -549,6 +550,7 @@ heliaco
 helíaco
 heliasta
 hélice
+helicicultura
 helicoidal
 helicoide
 helicón
@@ -598,6 +600,8 @@ helvecio
 helvética
 helvético
 hemacrimo
+hemaglutinación
+hemaglutinina
 hemangioma
 hematemesis
 hematermo
@@ -640,6 +644,7 @@ hemeroteca
 hemiciclo
 hemicránea
 hemina
+hemiparesia
 hemiplejia
 hemiplejía
 hemipléjica
@@ -755,6 +760,7 @@ heptasílaba
 heptasilábica
 heptasilábico
 heptasílabo
+heptatlón
 her
 heraclea
 heracleo
@@ -982,6 +988,8 @@ hervor
 hervorizarse
 hervorosa
 hervoroso
+herzegovina
+herzegovino
 hesitación
 hesitar
 héspera
@@ -1075,8 +1083,10 @@ hi
 hí
 hialina
 hialino
+hialografía
 hialoidea
 hialoideo
+hialotecnia
 hialurónico
 hiante
 hiato
@@ -1138,6 +1148,7 @@ hidráulico
 hidria
 hídrica
 hídrico
+hidroala
 hidroavión
 hidrobiología
 hidrobiológica
@@ -1175,6 +1186,9 @@ hidrófono
 hidrófuga
 hidrófugo
 hidrogenación
+hidrogenada
+hidrogenado
+hidrogenar
 hidrógeno
 hidrogeóloga
 hidrogeología
@@ -1291,6 +1305,7 @@ hierosolimitana
 hierosolimitano
 hierra
 hierro
+hifa
 higa
 higadilla
 higadillo
@@ -1348,6 +1363,7 @@ hijuela
 hijuelar
 hijuelero
 hijuelo
+hijueputa
 hila
 hilacha
 hilacho
@@ -1496,6 +1512,7 @@ hipermétrope
 hipermetropía
 hiperonimia
 hiperónimo
+hiperosmia
 hiperoxia
 hiperplasia
 hiperrealismo
@@ -1585,6 +1602,11 @@ hipodámico
 hipodérmica
 hipodérmico
 hipódromo
+hipofaringe
+hipofisaria
+hipofisario
+hipofisiaria
+hipofisiario
 hipófisis
 hipofosfito
 hipofunción
@@ -1678,9 +1700,11 @@ hirsuta
 hirsutismo
 hirsuto
 hirundinaria
+hirviente
 hisca
 hiscal
 hisopada
+hisopado
 hisopadura
 hisopar
 hisopazo
@@ -1732,6 +1756,8 @@ histérica
 histérico
 histerismo
 histerología
+hística
+hístico
 histocompatibilidad
 histograma
 históloga
@@ -1834,6 +1860,8 @@ hojarasca
 hojasanta
 hojear
 hojecer
+hojiblanca
+hojiblanco
 hojilla
 hojosa
 hojoso
@@ -1949,12 +1977,16 @@ homicida
 homicidio
 homiciero
 homicillo
+homilética
+homilético
 homilía
 homiliario
 hominal
 hominicaco
 homínida
 homínido
+hominización
+hominizarse
 homo
 homocerca
 homociclo
@@ -1981,6 +2013,7 @@ homogéneo
 homógrafa
 homografía
 homógrafo
+homolateral
 homóloga
 homologable
 homologación
@@ -2286,6 +2319,7 @@ hostelero
 hosterero
 hostería
 hostia
+hostiar
 hostiario
 hostiera
 hostiero

@@ -697,6 +697,7 @@ panceta
 pancha
 panchera
 panchero
+panchita
 panchito
 pancho
 panchón
@@ -893,6 +894,8 @@ panque
 panqueca
 panqueque
 pansa
+pansexual
+pansexualidad
 pansexualismo
 pansida
 pansido
@@ -984,7 +987,7 @@ papalina
 papalino
 papalisa
 papalmente
-papalomayo
+papalomoyo
 papalota
 papalote
 papalotear
@@ -996,6 +999,7 @@ papanduja
 papandujo
 papar
 pápara
+paparajote
 paparapa
 paparazzi
 páparo
@@ -1180,9 +1184,13 @@ paradojo
 paradón
 parador
 paradora
+paradoxógrafa
+paradoxografía
+paradoxógrafo
 paraestatal
 parafango
 parafarmacia
+parafascista
 parafernales
 parafernalia
 parafilia
@@ -1677,6 +1685,8 @@ partícipe
 participial
 participio
 partícula
+particulada
+particulado
 particular
 particularidad
 particularismo
@@ -1696,6 +1706,7 @@ partidero
 partidismo
 partidista
 partido
+partidocracia
 partidor
 partidora
 partidura
@@ -1709,6 +1720,9 @@ partisano
 partita
 partitiva
 partitivo
+partitocracia
+partitocrática
+partitocrático
 partitura
 parto
 partura
@@ -1873,6 +1887,7 @@ pasoso
 pasota
 pasote
 pasotismo
+paspadura
 pasparse
 paspartú
 paspié
@@ -1919,6 +1934,7 @@ pastiche
 pasticho
 pastilla
 pastillaje
+pastillera
 pastillero
 pastinaca
 pastines
@@ -1999,6 +2015,8 @@ patán
 patana
 patanco
 patanería
+patanesca
+patanesco
 patanga
 patango
 patantaca
@@ -2132,6 +2150,7 @@ patogenética
 patogenético
 patogenia
 patogénica
+patogenicidad
 patogénico
 patógeno
 patognomónica
@@ -2319,6 +2338,8 @@ payar
 payasa
 payasada
 payasear
+payasesca
+payasesco
 payaso
 payaya
 payé
@@ -2606,6 +2627,7 @@ pegamiento
 pegamoide
 pegamoscas
 pegante
+pegapases
 pegar
 pegasea
 pegaseo
@@ -2882,6 +2904,7 @@ peluche
 pelúcida
 pelúcido
 peluco
+pelucón
 pelucona
 peluda
 peludear
@@ -2898,6 +2921,8 @@ pelusilla
 pelvi
 pelviana
 pelviano
+pélvica
+pélvico
 pelvímetro
 pelvis
 pemón
@@ -2974,6 +2999,8 @@ pendonista
 pendrar
 péndula
 pendular
+pendulear
+penduleo
 péndulo
 pendura
 pene
@@ -3080,6 +3107,7 @@ pentagrama
 pentágrama
 pentalfa
 pentalingüe
+pentalogía
 pentámera
 pentámero
 pentámetro
@@ -3189,8 +3217,8 @@ percalina
 percán
 percance
 percanzar
-percápita
 per cápita
+percápita
 percatación
 percatar
 percebe
@@ -3448,6 +3476,7 @@ perillana
 perillo
 perilustre
 perimetral
+perimetrar
 perimétrica
 perimétrico
 perímetro
@@ -3575,6 +3604,7 @@ permeación
 permear
 pérmica
 pérmico
+permisibilidad
 permisible
 permisión
 permisionaria
@@ -3663,6 +3693,8 @@ perpetradora
 perpetrar
 perpetua
 perpetuación
+perpetuador
+perpetuadora
 perpetuamente
 perpetuán
 perpetuar
@@ -3740,6 +3772,7 @@ personalidad
 personalísimo
 personalismo
 personalista
+personalización
 personalizante
 personalizar
 personalmente
@@ -3864,6 +3897,9 @@ pescador
 pescadora
 pescante
 pescar
+pescatera
+pescatería
+pescatero
 pesce
 pescocear
 pescola
@@ -4282,6 +4318,7 @@ piconera
 piconero
 picop
 picor
+picoroco
 picosa
 picoso
 picota
@@ -4310,6 +4347,7 @@ pictórica
 pictóricamente
 pictórico
 picú
+picual
 picuala
 picuda
 picudear
@@ -4372,6 +4410,7 @@ pífaro
 pifas
 pifia
 pifiar
+pifostio
 pigargo
 pigmea
 pigmentación
@@ -4554,6 +4593,7 @@ pincelero
 pinceleta
 pincerna
 pincha
+pinchada
 pinchadiscos
 pinchado
 pinchadura
@@ -4721,6 +4761,7 @@ piolín
 pion
 piona
 pionera
+pionerismo
 pionero
 pionía
 pionono
@@ -4867,6 +4908,8 @@ pirograbado
 pirograbador
 pirograbadora
 pirograbar
+pirografía
+pirografiar
 pirolatría
 pirolisis
 pirólisis
@@ -4905,6 +4948,8 @@ piroxeno
 piroxilina
 pirquén
 pirquinear
+pirquinera
+pirquinero
 pirracha
 pirrar
 pirriar
@@ -5301,6 +5346,7 @@ planteamiento
 plantear
 plantel
 planteo
+plantera
 plantía
 plantificación
 plantificar
@@ -5439,10 +5485,10 @@ playada
 playado
 playar
 playazo
-playback
 play back
-playboy
+playback
 play boy
+playboy
 playera
 playero
 playo
@@ -5461,6 +5507,7 @@ plebeya
 plebeyez
 plebeyismo
 plebeyo
+plebiscitar
 plebiscitaria
 plebiscitario
 plebiscito
@@ -5481,6 +5528,9 @@ plegar
 plegaria
 pleguería
 pleguete
+pleiotropía
+pleiotrópica
+pleiotrópico
 pleistocena
 pleistoceno
 pleita
@@ -5593,6 +5643,8 @@ plumería
 plumerilla
 plumerío
 plumero
+plumeti
+plumetí
 plumier
 plumífera
 plumífero
@@ -5847,6 +5899,7 @@ poli
 poliadelfo
 polialcohol
 poliamida
+poliamor
 poliandria
 poliantea
 poliarca
@@ -5897,6 +5950,7 @@ poliédrica
 poliédrico
 poliedro
 poliéster
+poliestireno
 polietileno
 polifacética
 polifacético
@@ -5907,6 +5961,7 @@ polífago
 polifarmacia
 polifásica
 polifásico
+polifenol
 polífona
 polifonemática
 polifonemático
@@ -5945,6 +6000,8 @@ poligrafía
 poligráfica
 poligráfico
 polígrafo
+poliinsaturada
+poliinsaturado
 polilla
 polímata
 polimatía
@@ -6061,6 +6118,7 @@ póliza
 polizón
 polizona
 polizonte
+polka
 polla
 pollada
 pollancón
@@ -6270,6 +6328,8 @@ pope
 popel
 popelín
 popelina
+popera
+popero
 popés
 poplín
 poplítea
@@ -6593,6 +6653,7 @@ poscomunismo
 poscomunista
 posconciliar
 posconcilio
+posconflicto
 posdata
 posdiluviana
 posdiluviano
@@ -6710,6 +6771,7 @@ postcomunismo
 postcomunista
 postconciliar
 postconcilio
+postconflicto
 postdata
 postdiluviana
 postdiluviano
@@ -6795,6 +6857,8 @@ postración
 postrador
 postradora
 postrar
+postraumática
+postraumático
 postre
 postrema
 postremas
@@ -6990,6 +7054,7 @@ prebendado
 prebendar
 prebendaria
 prebendario
+prebendarismo
 prebiótica
 prebiótico
 prebostal
@@ -7065,6 +7130,7 @@ precipua
 precipuamente
 precipuo
 precisa
+precisable
 precisada
 precisado
 precisamente
@@ -7097,6 +7163,7 @@ preconcepción
 preconcepto
 preconciliar
 preconcilio
+precondición
 precongresual
 preconización
 preconizador
@@ -7177,10 +7244,12 @@ predominar
 predominio
 predorsal
 predorso
+preeclampsia
 preelegir
 preeminencia
 preeminente
 preescolar
+preestablecer
 preestablecida
 preestablecido
 preestreno
@@ -7395,6 +7464,7 @@ preoperatorio
 preopinante
 preordinación
 preordinar
+prepago
 prepalatal
 preparación
 preparada
@@ -7524,6 +7594,8 @@ presentificación
 presentificar
 presentimiento
 presentir
+presentismo
+presentista
 presepio
 presera
 presero
@@ -7615,6 +7687,7 @@ presuntuosidad
 presuntuoso
 presuponer
 presuposición
+presupuestación
 presupuestal
 presupuestar
 presupuestaria
@@ -7683,9 +7756,11 @@ preuniversitaria
 preuniversitario
 prevalecer
 prevaleciente
+prevalecimiento
 prevalencia
 prevalente
 prevaler
+prevalimiento
 prevaricación
 prevaricador
 prevaricadora
@@ -7925,6 +8000,8 @@ probatorio
 probatura
 probeta
 probidad
+probiótica
+probiótico
 problema
 problemática
 problemáticamente
@@ -7996,6 +8073,8 @@ proconsulado
 proconsular
 procordado
 procrastinación
+procrastinador
+procrastinadora
 procrastinar
 procreación
 procreador
@@ -8188,6 +8267,7 @@ proíz
 prójima
 prójimo
 prolación
+prolactina
 prolapso
 prole
 prolegómeno
@@ -8283,6 +8363,7 @@ prono
 pronombre
 pronominado
 pronominal
+pronominalizar
 pronosticable
 pronosticación
 pronosticador
@@ -8318,6 +8399,7 @@ propagar
 propagativa
 propagativo
 propágulo
+propalación
 propalador
 propaladora
 propalar
@@ -8384,6 +8466,8 @@ proporcionalmente
 proporcionar
 proposición
 proposicional
+propositiva
+propositivo
 propósito
 propretor
 propretura
@@ -8476,7 +8560,9 @@ prósperamente
 prosperar
 prosperidad
 próspero
+prostaglandina
 próstata
+prostatectomía
 prostática
 prostático
 prostatitis
@@ -8634,6 +8720,7 @@ proveza
 provicaria
 provicario
 provicero
+provida
 próvida
 próvidamente
 providencia
@@ -8659,6 +8746,7 @@ provisión
 provisional
 provisionalidad
 provisionalmente
+provisionar
 proviso
 provisor
 provisora
@@ -8676,6 +8764,8 @@ provocante
 provocar
 provocativa
 provocativo
+proxémica
+proxémico
 proxeneta
 proxenética
 proxenético
@@ -8724,6 +8814,7 @@ pseudocopulativo
 pseudohermafrodita
 pseudohermafroditismo
 pseudología
+pseudomona
 pseudónima
 pseudónimo
 pseudopartitiva
@@ -8788,6 +8879,7 @@ psicométrico
 psicomotor
 psicomotora
 psicomotricidad
+psicomotricista
 psicomotriz
 psicópata
 psicopatía
@@ -8859,6 +8951,7 @@ púa
 puado
 puar
 pub
+pubalgia
 púber
 púbera
 puberal
@@ -8897,6 +8990,8 @@ pucallpina
 pucallpino
 pucara
 pucará
+pucciniana
+pucciniano
 pucela
 pucelana
 pucelano
@@ -9023,7 +9118,6 @@ pujantemente
 pujanza
 pujar
 pujavante
-pujés
 pujido
 pujo
 pularda
@@ -9302,6 +9396,7 @@ purificadera
 purificadero
 purificador
 purificadora
+purificante
 purificar
 purificatoria
 purificatorio
@@ -9325,6 +9420,7 @@ purrela
 purrete
 purriela
 purrir
+purrusalda
 puruhá
 purulencia
 purulenta

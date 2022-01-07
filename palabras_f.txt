@@ -164,6 +164,8 @@ fagáceo
 fago
 fagocitación
 fagocitar
+fagocitaria
+fagocitario
 fagocito
 fagocitosis
 fagot
@@ -173,6 +175,7 @@ fagüeño
 fai
 faical
 faina
+fainá
 fainada
 fainera
 fainería
@@ -211,6 +214,8 @@ fajo
 fajol
 fajón
 falacia
+falafel
+faláfel
 falagar
 falago
 falagüeña
@@ -507,6 +512,7 @@ farandúlica
 farandúlico
 faranga
 faraón
+faraona
 faraónica
 faraónico
 faraute
@@ -588,6 +594,7 @@ farmacopólico
 farmacopsicología
 farmacopsiquiatría
 farmacoterapia
+farmacovigilancia
 farnaca
 faro
 farol
@@ -613,6 +620,7 @@ farraca
 farrago
 fárrago
 farragosa
+farragosidad
 farragoso
 farraguista
 farrapas
@@ -644,6 +652,7 @@ fasces
 fascia
 fasciculada
 fasciculado
+fascicular
 fascículo
 fascinación
 fascinador
@@ -653,6 +662,7 @@ fascinar
 fascismo
 fascista
 fascistizante
+fascistoide
 fascitis
 fase
 faséolo
@@ -688,8 +698,8 @@ fatalismo
 fatalista
 fatalizarse
 fatalmente
-fatamorgana
 fata morgana
+fatamorgana
 fática
 fático
 fatídica
@@ -800,6 +810,7 @@ febroniano
 fecal
 fecha
 fechable
+fechación
 fechador
 fechar
 fechero
@@ -869,6 +880,7 @@ feligrés
 feligresa
 feligresía
 felina
+felinidad
 felino
 felipe
 feliz
@@ -924,6 +936,7 @@ fenecer
 fenecimiento
 fenestra
 fenestraje
+feniana
 fenianismo
 feniano
 fenicada
@@ -937,6 +950,8 @@ fenilcetonuria
 fénix
 fenogreco
 fenol
+fenólica
+fenólico
 fenología
 fenológica
 fenológico
@@ -1499,6 +1514,7 @@ finada
 finado
 final
 finalidad
+finalísima
 finalista
 finalización
 finalizador
@@ -1526,6 +1542,7 @@ fincar
 finchada
 finchado
 finchar
+finde
 fiñe
 finés
 finesa
@@ -1547,6 +1564,7 @@ finiquitar
 finiquito
 finir
 finisecular
+finisterre
 finita
 finítima
 finítimo
@@ -1636,6 +1654,8 @@ fisiocracia
 fisiócrata
 fisiocrática
 fisiocrático
+fisioculturismo
+fisioculturista
 fisiognomía
 fisiognómica
 fisiognómico
@@ -1804,6 +1824,7 @@ flatulenta
 flatulento
 flatuosa
 flatuoso
+flatus vocis
 flaubertiana
 flaubertiano
 flauta
@@ -1818,6 +1839,7 @@ flautista
 flautos
 flava
 flavo
+flavonoide
 flébil
 flebítica
 flebítico
@@ -1859,6 +1881,7 @@ flemuda
 flemudo
 fleo
 flequillo
+flerovio
 fleta
 fletachar
 fletación
@@ -1903,6 +1926,7 @@ flipe
 flipearse
 flipera
 flipero
+flirt
 flirtear
 flirteo
 flocadura
@@ -2016,6 +2040,8 @@ fluencia
 fluente
 fluida
 fluidez
+fluídica
+fluídico
 fluidificación
 fluidificante
 fluidificar
@@ -2093,6 +2119,7 @@ foie-gras
 foisa
 foiso
 foja
+folato
 folclor
 folclore
 folclórica
@@ -2482,6 +2509,7 @@ fosfato
 fosfaturia
 fosfeno
 fosfito
+fosfolípido
 fosforada
 fosforado
 fosforecer
@@ -2532,6 +2560,7 @@ fotocromática
 fotocromático
 fotocromo
 fotodegradable
+fotodepilación
 fotodiodo
 fotoeléctrica
 fotoelectricidad
@@ -2592,6 +2621,7 @@ fotoperiodo
 fotoperíodo
 fotoquímica
 fotoquímico
+fotorrealismo
 fotorreceptor
 fotorreceptora
 fotorreportera
@@ -2657,6 +2687,7 @@ fragaria
 fragata
 frágil
 fragilidad
+fragilizar
 frágilmente
 fragmentación
 fragmentador
@@ -2788,6 +2819,8 @@ franquía
 franquicia
 franquiciada
 franquiciado
+franquiciador
+franquiciadora
 franquiciar
 franquismo
 franquista
@@ -2980,6 +3013,7 @@ friccionar
 fridera
 friega
 friegaplatos
+friegasuelos
 friera
 frigente
 frigia
@@ -3137,6 +3171,8 @@ fruslera
 fruslería
 fruslero
 frustración
+frustrada
+frustrado
 frustránea
 frustráneo
 frustrante
@@ -3171,6 +3207,9 @@ frutillar
 frutillera
 frutillero
 fruto
+frutosa
+frutosidad
+frutoso
 frutuosa
 frutuoso
 fu

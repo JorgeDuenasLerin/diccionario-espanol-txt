@@ -57,6 +57,7 @@ con-
 contra-
 cosmo-
 crio-
+cripto-
 cromo-
 crono-
 cuadr-
@@ -89,6 +90,7 @@ en-
 endeca-
 endo-
 enea-
+eno-
 entero-
 entre-
 equi-

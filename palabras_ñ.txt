@@ -18,12 +18,16 @@
 ñandubay
 ñandutí
 ñanga
+ñangal
 ñángara
 ñangazo
 ñango
 ñangotada
 ñangotado
 ñangotarse
+ñanguear
+ñanguero
+ñanguñao
 ñáñiga
 ñáñigo
 ñañiguismo
@@ -96,6 +100,7 @@
 ñudoso
 ñurda
 ñurdo
+ñusta
 ñuta
 ñuto
 ñuzco

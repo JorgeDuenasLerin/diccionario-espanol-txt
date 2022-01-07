@@ -171,6 +171,8 @@ obstáculo
 obstancia
 obstante
 obstar
+obstativa
+obstativo
 obstetra
 obstétrica
 obstetricia
@@ -184,6 +186,8 @@ obstinar
 obstrucción
 obstruccionismo
 obstruccionista
+obstructiva
+obstructivo
 obstructor
 obstructora
 obstruir
@@ -234,6 +238,7 @@ ocasionalmente
 ocasionar
 ocaso
 occidental
+occidentalidad
 occidentalismo
 occidentalista
 occidentalización
@@ -394,6 +399,7 @@ ocumo
 ocupación
 ocupacional
 ocupada
+ocupado
 ocupador
 ocupadora
 ocupante
@@ -528,6 +534,7 @@ ofuscadora
 ofuscamiento
 ofuscante
 ofuscar
+oganesón
 ogaño
 ogresa
 ogro
@@ -592,6 +599,8 @@ ojimorena
 ojimoreno
 ojinegra
 ojinegro
+ojiplática
+ojiplático
 ojiprieta
 ojiprieto
 ojito
@@ -654,6 +663,9 @@ oleosa
 oleosidad
 oleoso
 oler
+olera
+olería
+olero
 olfacción
 olfateada
 olfateador
@@ -762,6 +774,9 @@ olorosa
 olorosar
 oloroso
 olote
+olotense
+olotina
+olotino
 olura
 olvidable
 olvidada
@@ -783,6 +798,7 @@ ombligada
 ombligo
 ombliguero
 ombliguismo
+ombliguista
 ombría
 ombú
 omecillo
@@ -1104,6 +1120,8 @@ orbe
 orbedad
 orbicular
 orbicularmente
+orbitador
+orbitadora
 orbital
 orbitar
 orbitaria
@@ -1198,8 +1216,10 @@ orfre
 orfrés
 organdí
 organera
+organería
 organero
 orgánica
+organicidad
 organicismo
 organicista
 orgánico
@@ -1252,6 +1272,7 @@ orientación
 orientador
 orientadora
 oriental
+orientalidad
 orientalismo
 orientalista
 orientalización
@@ -1340,6 +1361,7 @@ orobanca
 orobancácea
 orobancáceo
 orobias
+orofaringe
 orogénesis
 orogenia
 orogénica
@@ -1379,10 +1401,12 @@ orquidácea
 orquidáceo
 orquídea
 orquídeo
+orquiectomía
 orquitis
 ortega
 orteguiana
 orteguiano
+ortesis
 ortiga
 ortigal
 ortigar
@@ -1420,8 +1444,12 @@ ortopedia
 ortopédica
 ortopédico
 ortopedista
+ortoprotésica
+ortoprotésico
+ortoprótesis
 ortóptero
 ortosa
+ortostato
 ortotanasia
 ortotipografía
 oruga
@@ -1593,6 +1621,7 @@ otilar
 otitis
 oto
 otoba
+otolito
 otóloga
 otología
 otológica
@@ -1612,8 +1641,10 @@ otoñar
 otoñiza
 otoñizo
 otoño
+otorgada
 otorgadera
 otorgadero
+otorgado
 otorgador
 otorgadora
 otorgamiento
@@ -1718,17 +1749,22 @@ oxiacanta
 oxiacetilénica
 oxiacetilénico
 oxiacetileno
+oxicortador
+oxicortadora
 oxicorte
 oxidable
 oxidación
 oxidante
 oxidar
+oxidativa
+oxidativo
 oxidrilo
 oxigenación
 oxigenada
 oxigenado
 oxigenar
 oxígeno
+oxigenoterapia
 oxigonio
 oxímoron
 oxipétalo

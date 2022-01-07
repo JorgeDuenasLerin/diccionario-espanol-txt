@@ -273,6 +273,7 @@ efectuación
 efectuar
 efedrácea
 efedráceo
+efedrina
 efélide
 efeméride
 efemérides
@@ -361,6 +362,7 @@ ego
 egocéntrica
 egocéntrico
 egocentrismo
+egocentrista
 egofonía
 egoísmo
 egoísta
@@ -398,6 +400,7 @@ ejecutante
 ejecutar
 ejecutiva
 ejecutivamente
+ejecutividad
 ejecutivo
 ejecutor
 ejecutora
@@ -415,6 +418,9 @@ ejemplarizante
 ejemplarizar
 ejemplarmente
 ejemplificación
+ejemplificador
+ejemplificadora
+ejemplificante
 ejemplificar
 ejemplo
 ejercer
@@ -725,6 +731,7 @@ eluir
 elusión
 elusiva
 elusivo
+eluyente
 elzevir
 elzeviriana
 elzeviriano
@@ -847,6 +854,7 @@ embarrilar
 embarrotar
 embarullador
 embarulladora
+embarullamiento
 embarullar
 embasamiento
 embasarse
@@ -1153,6 +1161,8 @@ emenagogo
 emendación
 emendar
 emergencia
+emergencióloga
+emergenciólogo
 emergente
 emerger
 emérita
@@ -1199,8 +1209,10 @@ emocionalidad
 emocionalmente
 emocionante
 emocionar
+emoji
 emoliente
 emolumento
+emoticón
 emoticono
 emotiva
 emotivamente
@@ -1270,6 +1282,7 @@ empanizado
 empanizar
 empantalonarse
 empantanada
+empantanamiento
 empantanar
 empanzamiento
 empanzarse
@@ -1324,6 +1337,7 @@ empastar
 empaste
 empastelamiento
 empastelar
+empastillar
 empatacada
 empatacado
 empatadera
@@ -1359,7 +1373,7 @@ empecinado
 empecinamiento
 empecinar
 empecinarse
-empedarse
+empedar
 empedecer
 empedernecer
 empedernida
@@ -1405,6 +1419,7 @@ empeñado
 empeñamiento
 empeñar
 empendolar
+empeñista
 empeño
 empeñosa
 empeñosamente
@@ -1498,6 +1513,7 @@ emplantillar
 emplastadura
 emplastamiento
 emplastar
+emplaste
 emplastecer
 emplástica
 emplasticar
@@ -1514,6 +1530,7 @@ emplazamiento
 emplazar
 emplea
 empleabilidad
+empleable
 empleada
 empleado
 empleador
@@ -1660,7 +1677,6 @@ emulsivo
 emulsor
 emunción
 emundación
-emuntorio
 en
 enaceitar
 enacerar
@@ -1780,10 +1796,12 @@ encadenamiento
 encadenar
 encaecer
 encaecida
+encajable
 encajadas
 encajador
 encajadora
 encajadura
+encajamiento
 encajar
 encaje
 encajera
@@ -1920,6 +1938,8 @@ encapotamiento
 encapotar
 encaprichamiento
 encapricharse
+encapsulación
+encapsulamiento
 encapsular
 encapuchada
 encapuchado
@@ -2204,6 +2224,7 @@ enclavación
 enclavada
 enclavado
 enclavadura
+enclavamiento
 enclavar
 enclave
 enclavijar
@@ -2307,6 +2328,7 @@ encontronazo
 encopetada
 encopetado
 encopetar
+encopresis
 encorachar
 encorajar
 encorajinar
@@ -2383,6 +2405,7 @@ encuadernar
 encuadramiento
 encuadrar
 encuadre
+encuarentenar
 encuartar
 encuarte
 encuartelar
@@ -2558,6 +2581,8 @@ endosataria
 endosatario
 endoscopia
 endoscopía
+endoscópica
+endoscópico
 endoscopio
 endose
 endoselar
@@ -2588,6 +2613,7 @@ endulce
 endulcecer
 endulzadura
 endulzamiento
+endulzante
 endulzar
 endulzorar
 endulzurar
@@ -2706,6 +2732,7 @@ enfervorizadora
 enfervorizar
 enfestar
 enfeudación
+enfeudamiento
 enfeudar
 enfiar
 enficionar
@@ -3404,10 +3431,12 @@ enorgullecimiento
 enorme
 enormemente
 enormidad
+enosis
 enoteca
 enotecnia
 enotécnica
 enotécnico
+enoturismo
 enoyar
 enquiciar
 enquillotrar
@@ -3420,6 +3449,8 @@ enquistar
 enrabar
 enrabiar
 enrabietar
+enrachada
+enrachado
 enracimarse
 enrafar
 enraigonar
@@ -3431,6 +3462,7 @@ enramado
 enramar
 enramblar
 enrame
+enranciamiento
 enranciar
 enrarecer
 enrarecimiento
@@ -3464,6 +3496,7 @@ enrejar
 enresmar
 enrevesada
 enrevesado
+enrevesar
 enriado
 enriador
 enriadora
@@ -3786,6 +3819,7 @@ enteógeno
 entera
 enterada
 enterado
+enteral
 enteralgia
 enteramente
 enteramiento
@@ -3855,6 +3889,9 @@ entoletar
 entomecer
 entomecimiento
 entomizar
+entomófaga
+entomofagia
+entomófago
 entomófila
 entomófilo
 entomóloga
@@ -3970,6 +4007,7 @@ entrecortar
 entrecorteza
 entrecostilla
 entrecot
+entrecote
 entrecriarse
 entrecruzamiento
 entrecruzar
@@ -3985,6 +4023,7 @@ entrefina
 entrefino
 entreforro
 entrega
+entregable
 entregada
 entregadamente
 entregador
@@ -4213,6 +4252,7 @@ entusiasmo
 entusiasta
 entusiástica
 entusiástico
+entutorar
 entuturutar
 enucleación
 enuclear
@@ -4222,6 +4262,8 @@ enumerativa
 enumerativo
 enunciación
 enunciado
+enunciador
+enunciadora
 enunciar
 enunciativa
 enunciativo
@@ -4293,7 +4335,6 @@ enviajado
 enviar
 enviciamiento
 enviciar
-enviciosarse
 envidada
 envidador
 envidadora
@@ -4375,7 +4416,11 @@ eólico
 eolio
 eolito
 eón
+eonia
 eosina
+eosinófila
+eosinofilia
+eosinófilo
 epa
 epacina
 epacta
@@ -4399,6 +4444,7 @@ epicanto
 epicarpio
 epicedio
 epiceno
+epicentral
 epicentro
 epiceyo
 epicíclica
@@ -4448,6 +4494,7 @@ epigenético
 epigeo
 epiglosis
 epiglotis
+epigonal
 epígono
 epígrafe
 epigrafía
@@ -4579,6 +4626,7 @@ equilibrio
 equilibrismo
 equilibrista
 equilicuá
+equilicual
 equimosis
 equina
 equino
@@ -4666,6 +4714,9 @@ ergástula
 ergástulo
 ergio
 ergo
+ergología
+ergológica
+ergológico
 ergometría
 ergométrica
 ergométrico
@@ -4703,10 +4754,13 @@ erisipelatoso
 erística
 erístico
 eritema
+eritematosa
+eritematoso
 eritrea
 eritreo
 eritrocito
 eritrofobia
+eritromicina
 eritropoyesis
 eritropoyetina
 eritroxilácea
@@ -4754,6 +4808,9 @@ erotizante
 erotizar
 erotógena
 erotógeno
+erotóloga
+erotología
+erotólogo
 erotómana
 erotomanía
 erotómano
@@ -4858,6 +4915,8 @@ escacharrar
 escachifollar
 escaecer
 escafandra
+escafandrismo
+escafandrista
 escafandro
 escafilar
 escafoides
@@ -4903,6 +4962,7 @@ escalfarote
 escalfecerse
 escalfeta
 escaliar
+escalibada
 escalímetro
 escalinata
 escalio
@@ -5847,6 +5907,9 @@ espaciosa
 espaciosamente
 espaciosidad
 espacioso
+espaciotemporal
+espacio-tiempo
+espaciotiempo
 espada
 espadachín
 espadachina
@@ -5969,6 +6032,8 @@ esparsión
 espartal
 espartana
 espartano
+espartaquismo
+espartaquista
 espartar
 esparteína
 esparteña
@@ -6489,10 +6554,10 @@ esquilmo
 esquilo
 esquilón
 esquimal
-esquimalaleutiana
 esquimal-aleutiana
-esquimalaleutiano
+esquimalaleutiana
 esquimal-aleutiano
+esquimalaleutiano
 esquimo
 esquina
 esquinada
@@ -6739,6 +6804,7 @@ estática
 estático
 estatificación
 estatificar
+estatina
 estatismo
 estatista
 estativo
@@ -6906,6 +6972,8 @@ estetoscopio
 esteva
 estevada
 estevado
+estevia
+esteviósido
 estevón
 estezado
 estezar
@@ -7282,6 +7350,9 @@ estrofa
 estrofanto
 estrófica
 estrófico
+estrógena
+estrogénica
+estrogénico
 estrógeno
 estroma
 estronciana
@@ -7369,6 +7440,7 @@ estulto
 estuosa
 estuosidad
 estuoso
+estupa
 estupefacción
 estupefaciente
 estupefacta
@@ -7406,6 +7478,7 @@ esviaje
 et
 eta
 etalaje
+etalonaje
 etamina
 etano
 etanol
@@ -7470,6 +7543,7 @@ etnea
 etneo
 etnia
 etnicidad
+etnicismo
 etnocéntrica
 etnocéntrico
 etnocentrismo
@@ -7572,6 +7646,8 @@ eurodólar
 euroescéptica
 euroescepticismo
 euroescéptico
+euroesclerosis
+eurofán
 europarlamentaria
 europarlamentario
 europea
@@ -7586,6 +7662,9 @@ europeizar
 europeo
 europio
 eurovisión
+eurovisiva
+eurovisivo
+eurozona
 euscaldún
 euscalduna
 euscaldunización
@@ -7608,6 +7687,7 @@ eutéctico
 eutiquiana
 eutiquianismo
 eutiquiano
+eutocia
 eutócica
 eutócico
 eutrapelia
@@ -7712,8 +7792,8 @@ evolutivamente
 evolutivo
 evónimo
 ex
-exabrupto
 ex abrupto
+exabrupto
 exacción
 exacerbación
 exacerbamiento
@@ -8042,6 +8122,7 @@ exógeno
 exoneración
 exonerar
 exónimo
+exoplaneta
 exorable
 exorar
 exorbitada
@@ -8053,6 +8134,10 @@ exorbitar
 exorcismo
 exorcista
 exorcistado
+exorcización
+exorcizador
+exorcizadora
+exorcizante
 exorcizar
 exordiar
 exordio
@@ -8074,6 +8159,8 @@ exótico
 exotiquez
 exotismo
 expandible
+expandida
+expandido
 expandir
 expansibilidad
 expansible
@@ -8153,6 +8240,9 @@ expirar
 explanación
 explanada
 explanar
+explantación
+explantar
+explante
 explayada
 explayar
 expletiva
@@ -8244,6 +8334,7 @@ expropiatoria
 expropiatorio
 expuesta
 expuesto
+expugnabilidad
 expugnable
 expugnación
 expugnador
@@ -8278,6 +8369,7 @@ extemporáneamente
 extemporaneidad
 extemporáneo
 extender
+extendible
 extendidamente
 extendimiento
 extensa
@@ -8348,6 +8440,7 @@ extracción
 extracomunitaria
 extracomunitario
 extracontractual
+extraconyugal
 extracorpórea
 extracorpóreo
 extractador
@@ -8419,6 +8512,7 @@ extratémpora
 extraterrestre
 extraterritorial
 extraterritorialidad
+extratipo
 extrauterina
 extrauterino
 extravagancia

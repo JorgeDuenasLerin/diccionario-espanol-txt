@@ -135,6 +135,8 @@ ultramontano
 ultramundana
 ultramundano
 ultranza
+ultraperiférica
+ultraperiférico
 ultrapuertos
 ultrarroja
 ultrarrojo
@@ -221,6 +223,7 @@ ungida
 ungido
 ungimiento
 ungir
+ungueal
 ungüentaria
 ungüentario
 ungüento
@@ -410,6 +413,8 @@ uretral
 uretritis
 urgabonense
 urgencia
+urgencióloga
+urgenciólogo
 urgente
 urgentemente
 urgir

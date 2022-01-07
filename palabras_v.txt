@@ -52,6 +52,9 @@ vacunadora
 vacunal
 vacunar
 vacuno
+vacunóloga
+vacunología
+vacunólogo
 vacunoterapia
 vacuo
 vacuola
@@ -151,6 +154,8 @@ valedera
 valedero
 valedor
 valedora
+valemadrismo
+valemadrista
 valencia
 valenciana
 valencianía
@@ -282,6 +287,7 @@ vanagloriarse
 vanagloriosa
 vanaglorioso
 vanamente
+vancomicina
 vándala
 vandalaje
 vandálica
@@ -308,6 +314,10 @@ vanistorio
 vano
 vánova
 vanuatuense
+vapeador
+vapeadora
+vapear
+vapeo
 vapor
 vaporable
 vaporación
@@ -1018,6 +1028,8 @@ verbi gratia
 verbo
 verborragia
 verborrea
+verborreica
+verborreico
 verbosa
 verbosidad
 verboso
@@ -1209,6 +1221,7 @@ versátil
 versatilidad
 versear
 versería
+versicolor
 versícula
 versicularia
 versiculario
@@ -1333,6 +1346,7 @@ vezar
 vezo
 vía
 viabilidad
+viabilizar
 viable
 viacheña
 viacheño
@@ -1487,6 +1501,8 @@ videoarte
 videocámara
 videocasete
 videocasetera
+videocharla
+videochat
 videocinta
 videoclip
 videoclub
@@ -1503,7 +1519,9 @@ videográfica
 videográfico
 videógrafo
 videojuego
+videollamada
 videomarcador
+videoportero
 videoteca
 videoteléfono
 videovigilancia
@@ -1559,6 +1577,7 @@ vigesimal
 vigésimo
 vigía
 vigiar
+vigil
 vigilancia
 vigilante
 vigilantemente
@@ -1573,6 +1592,9 @@ vigitano
 vigolero
 vigor
 vigorar
+vigorexia
+vigoréxica
+vigoréxico
 vigorizador
 vigorizadora
 vigorizar
@@ -1756,7 +1778,10 @@ violetero
 violeto
 violía
 violín
+violinismo
 violinista
+violinística
+violinístico
 violista
 violón
 violoncelista
@@ -1776,6 +1801,7 @@ virador
 virago
 viraje
 viral
+viralidad
 viralizar
 virar
 viraró
@@ -1958,6 +1984,7 @@ vitalizar
 vitamina
 vitaminada
 vitaminado
+vitaminar
 vitamínica
 vitamínico
 vitanda
@@ -2192,6 +2219,7 @@ volea
 volear
 voleibol
 vóleibol
+voleibolista
 voleo
 vóley
 vóley-playa
@@ -2313,8 +2341,6 @@ vosotras
 vosotros
 votación
 votada
-votador
-votadora
 votante
 votar
 votiva

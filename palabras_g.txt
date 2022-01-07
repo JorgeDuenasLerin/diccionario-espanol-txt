@@ -117,10 +117,10 @@ galactosa
 galafate
 galaica
 galaico
-galaicoportugués
 galaico-portugués
-galaicoportuguesa
+galaicoportugués
 galaico-portuguesa
+galaicoportuguesa
 galamera
 galamero
 galamperna
@@ -170,6 +170,8 @@ galdido
 galdón
 galdosiana
 galdosiano
+galdosismo
+galdosista
 galduda
 galdudo
 galea
@@ -276,10 +278,10 @@ gallegada
 gallego
 gallegohablante
 gallegoparlante
-gallegoportugués
 gallego-portugués
-gallegoportuguesa
+gallegoportugués
 gallego-portuguesa
+gallegoportuguesa
 galleguense
 galleguismo
 galleguista
@@ -905,6 +907,7 @@ gastrectomía
 gástrica
 gástrico
 gastritis
+gastrobar
 gastroenteritis
 gastroenteróloga
 gastroenterología
@@ -912,6 +915,8 @@ gastroenterológica
 gastroenterológico
 gastroenterólogo
 gastroenterostomía
+gastroesofágica
+gastroesofágico
 gastrointestinal
 gastrónoma
 gastronomía
@@ -1086,6 +1091,7 @@ gemosa
 gemoso
 gemoterapia
 gen
+gena
 genciana
 gencianácea
 gencianáceo
@@ -1205,6 +1211,8 @@ gentillal
 gentilmente
 gentío
 gentleman
+gentrificación
+gentrificar
 gentualla
 gentuza
 genuflexa
@@ -1238,6 +1246,7 @@ geofísico
 geogenia
 geogénica
 geogénico
+geoglifo
 geognosia
 geognosta
 geognóstica
@@ -1252,6 +1261,10 @@ geográficamente
 geográfico
 geógrafo
 geoide
+geolocalización
+geolocalizador
+geolocalizadora
+geolocalizar
 geóloga
 geología
 geológica
@@ -1304,6 +1317,8 @@ geotectónica
 geotectónico
 geotermal
 geotermia
+geotérmica
+geotérmico
 geótica
 geótico
 geotropismo
@@ -1353,6 +1368,7 @@ germinar
 germinativa
 germinativo
 germinicida
+germoplasma
 gerontocracia
 gerontócrata
 gerontocrática
@@ -1480,6 +1496,7 @@ gimotear
 gimoteo
 gin
 ginandra
+gincana
 gindama
 ginea
 ginebra
@@ -1510,6 +1527,8 @@ ginovesa
 ginseng
 gin-tonic
 giobertita
+gipsófila
+gipsófilo
 gira
 girada
 giradiscos
@@ -1616,6 +1635,8 @@ glera
 glía
 glial
 glicemia
+glicémica
+glicémico
 glicérido
 glicerina
 glicina
@@ -1640,6 +1661,7 @@ globalizar
 globera
 globero
 globo
+globoflexia
 globosa
 globoso
 globular
@@ -1876,6 +1898,7 @@ gomer
 gomera
 gomería
 gomero
+gomet
 gomia
 gomina
 gominola
@@ -1935,6 +1958,7 @@ gordolobo
 gordor
 gordura
 gore
+goretex
 gorga
 gorgojarse
 gorgojo
@@ -1991,7 +2015,6 @@ gorrinería
 gorrino
 gorrión
 gorriona
-gorrionera
 gorrista
 gorro
 gorrón
@@ -2761,6 +2784,7 @@ gualdrapero
 gualicho
 gualiqueme
 gualputa
+gualtrapa
 gualve
 guama
 guamá
@@ -2935,6 +2959,7 @@ guardamalleta
 guardamangel
 guardamangier
 guardamano
+guardamanos
 guardamateriales
 guardameta
 guardamiento

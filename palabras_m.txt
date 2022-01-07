@@ -179,6 +179,8 @@ macollar
 macollo
 macón
 macona
+macondiana
+macondiano
 macondo
 macopa
 macramé
@@ -195,10 +197,13 @@ macroeconomía
 macroeconómica
 macroeconómico
 macroestructura
+macrófaga
+macrófago
 macrofotografía
 macroinstrucción
 macromolécula
 macromolecular
+macronutriente
 macroscópica
 macroscópico
 macrospora
@@ -229,6 +234,7 @@ madama
 madamisela
 madapolán
 madefacción
+madeira
 madeja
 madera
 maderable
@@ -684,10 +690,10 @@ malavés
 malavez
 malaya
 malayo
-malayopolinesia
 malayo-polinesia
-malayopolinesio
+malayopolinesia
 malayo-polinesio
+malayopolinesio
 malbaratador
 malbaratadora
 malbaratar
@@ -799,6 +805,8 @@ malezal
 malfacer
 malfadada
 malfadado
+malfamada
+malfamado
 malfecho
 malfechor
 malfetría
@@ -820,6 +828,7 @@ malhecha
 malhecho
 malhechor
 malhechora
+malherbología
 malherir
 malhojo
 malhora
@@ -1062,7 +1071,9 @@ mamola
 mamón
 mamona
 mamoncillo
+mamonear
 mamonearse
+mamoneo
 mamoplastia
 mamosa
 mamoso
@@ -1156,6 +1167,8 @@ manchosa
 manchoso
 manchú
 manchurrón
+mancia
+mancía
 mancilla
 mancilladera
 mancilladero
@@ -1201,6 +1214,7 @@ mandarinismo
 mandarino
 mandarria
 mandarriazo
+mandatar
 mandataria
 mandatario
 mandato
@@ -1218,6 +1232,7 @@ mandilete
 mandilón
 mandinga
 mandioca
+mandiocal
 mando
 mandoble
 mandolina
@@ -1300,6 +1315,8 @@ mangante
 manganzón
 manganzona
 mangar
+mangarrán
+mangarrana
 mangazo
 mangla
 manglar
@@ -1323,6 +1340,7 @@ mangostán
 mangostín
 mangote
 mangrullo
+mangú
 mangual
 manguala
 manguardia
@@ -1331,6 +1349,7 @@ mangue
 manguear
 mangüeña
 manguera
+manguerazo
 manguereada
 manguerear
 manguero
@@ -1872,6 +1891,7 @@ marginada
 marginado
 marginal
 marginalidad
+marginalismo
 marginalización
 marginalmente
 marginar
@@ -1881,6 +1901,7 @@ margoso
 margrave
 margraviato
 marguera
+mari
 maría
 mariachi
 marial
@@ -1912,6 +1933,7 @@ mariguanza
 marihuana
 marihuanera
 marihuanero
+mariliendre
 marimacha
 marimacho
 marimandón
@@ -1958,6 +1980,7 @@ marioso
 maripérez
 mariposa
 mariposado
+mariposario
 mariposeador
 mariposeadora
 mariposear
@@ -1996,6 +2019,7 @@ marizarse
 marjal
 marjoleta
 marjoleto
+marketear
 marketing
 marlo
 marlota
@@ -2007,6 +2031,8 @@ marmella
 marmellada
 marmellado
 marmita
+marmitaco
+marmitako
 marmitón
 marmitona
 mármol
@@ -2052,6 +2078,7 @@ marquesita
 marquesota
 marquesote
 marqueta
+marquetear
 marquetería
 marquilla
 marquista
@@ -2271,6 +2298,7 @@ mastaba
 mastate
 maste
 mastectomía
+mastectomizar
 mástel
 masteleo
 mastelera
@@ -2507,6 +2535,7 @@ matrón
 matrona
 matronal
 matronaza
+matrono
 matufia
 matufiada
 matul
@@ -2893,6 +2922,7 @@ megáfono
 megahercio
 megalítica
 megalítico
+megalitismo
 megalito
 megalómana
 megalomanía
@@ -2954,6 +2984,8 @@ melanconía
 melanconiosa
 melanconioso
 melandro
+melanesia
+melanesio
 melánica
 melánico
 melanina
@@ -2970,6 +3002,7 @@ melastomácea
 melastomáceo
 melastomatácea
 melastomatáceo
+melatonina
 melaza
 melcocha
 melcochera
@@ -3417,6 +3450,7 @@ mercantesco
 mercantil
 mercantilismo
 mercantilista
+mercantilización
 mercantilizar
 mercantilmente
 mercantiva
@@ -3721,7 +3755,6 @@ metalografía
 metalográfica
 metalográfico
 metaloide
-metaloterapia
 metalurgia
 metalúrgica
 metalúrgico
@@ -3736,6 +3769,7 @@ metamorfosi
 metamorfosis
 metanera
 metanero
+metanfetamina
 metano
 metanol
 metaplasmo
@@ -3845,6 +3879,7 @@ metrificatura
 metrista
 metritis
 metro
+metrobús
 metróloga
 metrología
 metrológica
@@ -3948,6 +3983,8 @@ micra
 micrera
 micrero
 micro
+microalbuminuria
+microalga
 microbiana
 microbiano
 microbicida
@@ -3957,6 +3994,7 @@ microbiología
 microbiológica
 microbiológico
 microbiólogo
+microbiota
 microbús
 microbusera
 microbusero
@@ -3973,7 +4011,10 @@ micrococo
 microcopia
 microcosmo
 microcosmos
+microcrédito
 microeconomía
+microeconómica
+microeconómico
 microelectrónica
 microespacio
 microestructura
@@ -3988,6 +4029,7 @@ microfilmar
 microfilme
 microfito
 micrófito
+microflora
 microfónica
 microfónico
 micrófono
@@ -3999,6 +4041,7 @@ micrografía
 micrográfica
 micrográfico
 micrógrafo
+microgramo
 microgravedad
 micromanipulador
 micrométrica
@@ -4009,6 +4052,7 @@ micrón
 micronesia
 micronesio
 micronizar
+micronutriente
 microonda
 microondas
 microorganismo
@@ -4032,6 +4076,8 @@ microvoltio
 micuré
 mida
 midriasis
+midriática
+midriático
 miéchica
 miedica
 mieditis
@@ -4379,6 +4425,7 @@ minusvaloración
 minusvalorar
 minuta
 minutación
+minutada
 minutado
 minutaje
 minutar
@@ -4394,6 +4441,7 @@ miocardio
 miocarditis
 miocena
 mioceno
+miocito
 miodinia
 miolema
 miología
@@ -4401,6 +4449,7 @@ mioma
 miona
 miope
 miopía
+miorrelajante
 miosina
 miosis
 miosota
@@ -4427,6 +4476,7 @@ miradora
 miradura
 miraglo
 miraguano
+miraje
 miramamolín
 miramelindo
 miramelindos
@@ -4467,6 +4517,8 @@ mirobálanos
 mirobrigense
 mirón
 mirona
+mironiana
+mironiano
 mirra
 mirrada
 mirrado
@@ -4566,6 +4618,8 @@ mistar
 mistela
 míster
 misterial
+mistérica
+mistérico
 misterio
 misteriosa
 misteriosamente
@@ -4616,8 +4670,11 @@ mitín
 mitinear
 mitinera
 mitinero
+mitinesca
+mitinesco
 mito
 mitocondria
+mitocondrial
 mitógrafa
 mitografía
 mitógrafo
@@ -4666,8 +4723,8 @@ mixtificación
 mixtificador
 mixtificadora
 mixtificar
-mixtifori
 mixti fori
+mixtifori
 mixtilínea
 mixtilíneo
 mixtión
@@ -4792,6 +4849,7 @@ modernista
 modernización
 modernizador
 modernizadora
+modernizante
 modernizar
 moderno
 modesta
@@ -4939,6 +4997,7 @@ mojonación
 mojonar
 mojonera
 mojonero
+moka
 mol
 mola
 molacha
@@ -5107,6 +5166,7 @@ monarquía
 monárquica
 monárquico
 monarquismo
+moñas
 monasterial
 monasterio
 monástica
@@ -5154,6 +5214,7 @@ monería
 monesca
 monesco
 monesterio
+monetal
 monetaria
 monetario
 monetarismo
@@ -5208,6 +5269,8 @@ monjío
 monjita
 mono
 moño
+monoansada
+monoansado
 monoaural
 monocarril
 monocasco
@@ -5265,6 +5328,8 @@ monografista
 monograma
 monoica
 monoico
+monoinsaturada
+monoinsaturado
 monolingüe
 monolítica
 monolítico
@@ -5349,6 +5414,7 @@ monotelita
 monotema
 monotemática
 monotemático
+monoterapia
 monotipia
 monotipo
 monótona
@@ -5549,6 +5615,7 @@ mórbido
 morbífica
 morbífico
 morbilidad
+morbimortalidad
 morbo
 morbosa
 morbosidad
@@ -5781,6 +5848,7 @@ mortífero
 mortificación
 mortificador
 mortificadora
+mortificante
 mortificar
 mortiguar
 mortiñada
@@ -5824,6 +5892,7 @@ mosconear
 mosconeo
 moscorra
 moscoso
+moscovio
 moscovita
 moscovítica
 moscovítico
@@ -5856,6 +5925,7 @@ mosquito
 mostacera
 mostacero
 mostacho
+mostachol
 mostachón
 mostachosa
 mostachoso
@@ -5972,7 +6042,10 @@ moviente
 móvil
 movilidad
 movilización
+movilizador
+movilizadora
 movilizar
+movimientista
 movimiento
 moviola
 moxa
@@ -6010,6 +6083,7 @@ mozuelo
 mozzarella
 mu
 mua
+muac
 muaré
 muble
 muca
@@ -6062,6 +6136,7 @@ mudéjar
 mudejarismo
 mudez
 mudo
+mudra
 mue
 muebda
 mueblaje
@@ -6151,6 +6226,7 @@ mujerío
 mujerón
 mujerona
 mujerzuela
+mujik
 mújol
 mula
 mulá
@@ -6175,6 +6251,7 @@ muletazo
 muletear
 muleteo
 muletera
+muleteril
 muletero
 muletilla
 muletillera
@@ -6183,6 +6260,8 @@ muleto
 muletón
 mulilla
 mulillas
+mulillera
+mulillero
 mulita
 mulito
 mulla
@@ -6262,6 +6341,8 @@ multiprogramación
 multipropiedad
 multipunto
 multirracial
+multirriesgo
+multisectorial
 multisecular
 multitarea
 multitud
@@ -6270,6 +6351,8 @@ multitudinario
 multiuso
 multiusos
 multiválvulas
+multivariada
+multivariado
 multivibrador
 multivisión
 multívoca
@@ -6287,6 +6370,7 @@ mundanidad
 mundano
 mundaria
 mundial
+mundialismo
 mundialista
 mundialización
 mundializar
@@ -6339,6 +6423,7 @@ muñón
 muñonera
 munúsculo
 muon
+mupi
 muquición
 muquir
 mur
@@ -6380,6 +6465,7 @@ muriacita
 muriato
 múrice
 múrido
+muriente
 murmujear
 murmullar
 murmullo
@@ -6387,6 +6473,7 @@ murmuración
 murmuradera
 murmurador
 murmuradora
+murmurante
 murmurar
 murmurear
 murmureo
@@ -6413,11 +6500,13 @@ murviedrés
 murviedresa
 mus
 musa
+musaca
 musácea
 musáceo
 musageta
 musaica
 musaico
+musaka
 musar
 musaraña
 musca
@@ -6478,9 +6567,12 @@ musicólogo
 musicómana
 musicomanía
 musicómano
+musicoterapeuta
 musicoterapia
 musiquero
+musiquilla
 musirse
+musitación
 musitar
 musiva
 musivaria

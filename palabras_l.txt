@@ -30,6 +30,7 @@ laboral
 laboralista
 laborante
 laborar
+laboratorial
 laboratorio
 laboratorista
 laborear
@@ -309,6 +310,7 @@ lamasería
 lambayecana
 lambayecano
 lambda
+lambdacismo
 lambeculo
 lambeculos
 lambedero
@@ -570,6 +572,8 @@ lapachero
 lapacho
 laparoscopia
 laparoscopía
+laparoscópica
+laparoscópico
 laparoscopio
 laparotomía
 lapicera
@@ -632,6 +636,8 @@ largo
 largometraje
 largomira
 largona
+largoplacismo
+largoplacista
 largor
 largueada
 largueado
@@ -764,6 +770,7 @@ latinista
 latinización
 latinizador
 latinizadora
+latinizante
 latinizar
 latino
 latinoamericana
@@ -1282,6 +1289,8 @@ leprosorio
 leptón
 leptorrina
 leptorrino
+leptospira
+leptospirosis
 lera
 lercha
 lerda
@@ -1517,6 +1526,7 @@ libertadora
 libertar
 libertaria
 libertario
+libertarismo
 liberteña
 liberteño
 liberticida
@@ -1697,6 +1707,8 @@ ligadura
 ligagamba
 ligamaza
 ligamen
+ligamentaria
+ligamentario
 ligamento
 ligamentosa
 ligamentoso
@@ -1705,6 +1717,8 @@ ligapierna
 ligar
 ligarza
 ligaterna
+ligatoria
+ligatorio
 ligatura
 ligazón
 ligera
@@ -1720,6 +1734,7 @@ lignaria
 lignario
 lignificación
 lignificar
+lignina
 lignito
 lignum crucis
 ligón
@@ -1929,6 +1944,8 @@ linio
 linjavera
 lino
 liño
+linoleico
+linolénico
 linóleo
 linóleum
 linón
@@ -1962,6 +1979,7 @@ lipemaniaca
 lipemaníaca
 lipemaniaco
 lipemaníaco
+lipemia
 lipendi
 lipes
 lipidia
@@ -1980,6 +1998,7 @@ lipoideo
 lipoma
 lipón
 lipoproteína
+liposoluble
 liposucción
 lipotimia
 lipuda
@@ -2012,7 +2031,9 @@ lirón
 lironero
 lis
 lisa
+lisado
 lisamente
+lisar
 lisboeta
 lisbonense
 lisbonés
@@ -2152,6 +2173,7 @@ liturgista
 liuda
 liudar
 liudo
+livermorio
 liviana
 livianamente
 liviandad
@@ -2266,6 +2288,7 @@ llenura
 llera
 lleudar
 lleva
+llevable
 llevada
 llevadera
 llevadero
@@ -2414,6 +2437,7 @@ locuaz
 locución
 locuela
 locuelo
+locuente
 locura
 locus
 locutar
@@ -2578,6 +2602,8 @@ lonjista
 lontananza
 look
 loor
+lopesca
+lopesco
 lopigia
 lopista
 loquear
@@ -2703,6 +2729,7 @@ lucha
 luchadero
 luchador
 luchadora
+luchana
 luchar
 lucharniega
 lucharniego
@@ -2765,10 +2792,13 @@ lúdica
 lúdico
 lúdicra
 lúdicro
+ludificación
+ludificar
 ludimiento
 ludio
 ludión
 ludir
+ludismo
 ludo
 ludópata
 ludopatía
@@ -2791,6 +2821,7 @@ lugareño
 lugartenencia
 lugarteniente
 lugdunense
+luge
 lugre
 lúgubre
 lúgubremente

@@ -91,6 +91,11 @@ quejumbroso
 quejura
 quekchí
 quelachina
+quelación
+quelador
+queladora
+quelante
+quelato
 quelenquelén
 quelital
 quelite
@@ -202,6 +207,7 @@ quetzalteco
 queule
 quevedesca
 quevedesco
+quevedista
 quevedos
 qui
 quia
@@ -275,6 +281,8 @@ quijotescamente
 quijotesco
 quijotil
 quijotismo
+quijotización
+quijotizar
 quila
 quilatador
 quilatar
@@ -431,8 +439,11 @@ quinina
 quinismo
 quino
 quiño
+quinoa
+quínoa
 quínola
 quinolillas
+quinolona
 quiñón
 quiñonero
 quinoto
@@ -500,6 +511,7 @@ quiote
 quipa
 quipu
 quique
+quiqui
 quiquiriquí
 quiquisque
 quiragra
@@ -529,6 +541,8 @@ quiromasaje
 quiromasajista
 quiropráctica
 quiropráctico
+quiropraxia
+quiropraxis
 quiróptero
 quiroteca
 quirquincho

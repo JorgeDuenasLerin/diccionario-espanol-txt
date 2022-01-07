@@ -548,6 +548,7 @@ cadenilla
 cadente
 cadera
 caderamen
+caderazo
 caderillas
 caderón
 caderona
@@ -634,6 +635,7 @@ cagarrache
 cagarria
 cagarropa
 cagarruta
+cagarrutero
 cagatinta
 cagatintas
 cagatorio
@@ -1240,6 +1242,7 @@ calóptera
 calóptero
 calor
 caloría
+calórica
 caloricidad
 calórico
 calorídoro
@@ -1468,7 +1471,6 @@ cambiza
 cambizar
 cambizo
 cambo
-cambocho
 cambón
 cambote
 camboyana
@@ -1505,6 +1507,7 @@ cambutera
 camedrio
 camedris
 camedrita
+cámel
 camelador
 cameladora
 camelar
@@ -1595,10 +1598,10 @@ camisote
 camita
 camítica
 camítico
-camitosemítica
 camito-semítica
-camitosemítico
+camitosemítica
 camito-semítico
+camitosemítico
 camoatí
 camocán
 camochar
@@ -1706,6 +1709,8 @@ campizal
 campo
 campoamorina
 campoamorino
+campogibraltareña
+campogibraltareño
 camporruteña
 camporruteño
 camposantero
@@ -1765,6 +1770,7 @@ cañal
 canalada
 canalado
 canaladura
+canalé
 canaleja
 canalera
 canalero
@@ -1969,6 +1975,7 @@ cándidamente
 candidata
 candidatar
 candidatear
+candidatizar
 candidato
 candidatura
 candidez
@@ -2186,6 +2193,7 @@ canoro
 canosa
 canoso
 cañota
+canotaje
 canotier
 canquén
 cansa
@@ -2563,12 +2571,16 @@ capraria
 caprario
 capricho
 caprichosa
+caprichosamente
 caprichoso
 caprichuda
 caprichudo
 capricorniana
 capricorniano
 capricornio
+capricultor
+capricultora
+capricultura
 caprifoliácea
 caprifoliáceo
 caprina
@@ -2699,6 +2711,7 @@ carada
 carado
 caradriforme
 caradura
+caradurez
 caradurismo
 carago
 caraguatá
@@ -2996,6 +3009,7 @@ cardiológico
 cardiólogo
 cardiópata
 cardiopatía
+cardiopulmonar
 cardiorrespiratoria
 cardiorrespiratorio
 cardiotónica
@@ -3179,6 +3193,7 @@ carininfa
 carininfo
 cariño
 cariñosa
+cariñosamente
 cariñoso
 cario
 carioca
@@ -3193,6 +3208,10 @@ cariofiláceo
 cariofilea
 cariofileo
 cariofilina
+cariógena
+cariogénica
+cariogénico
+cariógeno
 cariópside
 carioquinesis
 cariosa
@@ -3276,6 +3295,8 @@ carnauba
 carnaval
 carnavalada
 carnavalear
+carnavalera
+carnavalero
 carnavalesca
 carnavalesco
 carnaválica
@@ -4345,6 +4366,7 @@ cautamente
 cautela
 cautelar
 cautelosa
+cautelosamente
 cauteloso
 cauterio
 cauterización
@@ -4459,6 +4481,7 @@ cazafortunas
 cazalla
 cazallera
 cazallero
+cazamariposas
 cazaminas
 cazar
 cazarete
@@ -4628,6 +4651,7 @@ céfalo
 cefalópodo
 cefalorraquídea
 cefalorraquídeo
+cefalosporina
 cefalotórax
 cefea
 cefear
@@ -4667,6 +4691,8 @@ ceibeña
 ceibeño
 ceibo
 ceibón
+ceilandés
+ceilandesa
 ceilanés
 ceilanesa
 ceja
@@ -4880,7 +4906,7 @@ cenco
 cencuate
 cendal
 cendalí
-céndea
+cendea
 cendolilla
 cendra
 cendrada
@@ -4960,6 +4986,7 @@ censorino
 censorio
 censual
 censualista
+censuaria
 censuario
 censura
 censurable
@@ -5208,6 +5235,7 @@ cerebralismo
 cerebrina
 cerebro
 cerebroespinal
+cerebrovascular
 cereceda
 cerecere
 cerecilla
@@ -5363,6 +5391,7 @@ cerruma
 certamen
 certeneja
 certera
+certeramente
 certería
 certero
 certeza
@@ -6260,6 +6289,7 @@ chequear
 chequén
 chequeo
 chequera
+chequista
 chera
 cheral
 chercán
@@ -6317,6 +6347,7 @@ chicarrero
 chicarro
 chicarrón
 chicarrona
+chicazo
 chicha
 chícharo
 chicharra
@@ -6393,6 +6424,7 @@ chícora
 chicoria
 chicoriácea
 chicoriáceo
+chicorra
 chicorro
 chicota
 chicotazo
@@ -6657,6 +6689,7 @@ chipilín
 chipilina
 chipilo
 chipirón
+chipo
 chipojo
 chipolo
 chiporro
@@ -6792,6 +6825,7 @@ chirrionero
 chirrisca
 chirrisco
 chirrisquear
+chiruca
 chirula
 chirulí
 chirumbela
@@ -7138,6 +7172,7 @@ chuchanga
 chuchango
 chuchar
 chuchazo
+chuche
 chuchear
 chuchera
 chuchería
@@ -7249,10 +7284,10 @@ chuñusca
 chuñusco
 chupa
 chupacabras
-chupachup
 chupa-chup
-chupachups
+chupachup
 chupa-chups
+chupachups
 chupachús
 chupacirios
 chupada
@@ -7277,6 +7312,7 @@ chupaquina
 chupaquino
 chupar
 chuparrosa
+chupasangre
 chupatintas
 chupativa
 chupativo
@@ -7332,6 +7368,7 @@ churrero
 churretada
 churrete
 churretear
+churretón
 churretosa
 churretoso
 churri
@@ -7384,8 +7421,12 @@ chusquel
 chusquero
 chut
 chuta
+chutador
+chutadora
 chutar
 chute
+chuteador
+chuteadora
 chuto
 chuva
 chuya
@@ -7411,6 +7452,7 @@ cianhídrico
 cianí
 ciánico
 cianita
+cianobacteria
 cianógeno
 cianosis
 cianótica
@@ -7434,10 +7476,16 @@ cibelea
 cibeleo
 cibelina
 cibera
+ciberacosador
+ciberacosadora
+ciberacoso
 ciberarte
 ciberartista
 cibercafé
 cibercultura
+ciberdelincuencia
+ciberdelincuente
+ciberdelito
 ciberespacial
 ciberespacio
 cibernauta
@@ -7487,6 +7535,7 @@ cicimite
 cicindela
 cicindélido
 cición
+ciclable
 ciclada
 ciclamen
 ciclamino
@@ -7845,6 +7894,7 @@ cinquena
 cinqueña
 cinqueno
 cinqueño
+cinquera
 cinquero
 cinquillo
 cinquina
@@ -8021,6 +8071,8 @@ cisca
 ciscar
 cisco
 ciscón
+cisexual
+cisgénero
 cisión
 cisípedo
 cisma
@@ -8157,6 +8209,7 @@ cladócero
 cladodio
 clamar
 clámide
+clamidia
 clamor
 clamoreada
 clamorear
@@ -8361,6 +8414,8 @@ clientelar
 clientelismo
 clientelista
 clima
+climácica
+climácico
 climatérica
 climatérico
 climaterio
@@ -8437,6 +8492,7 @@ cloración
 clorada
 clorado
 cloral
+cloranfenicol
 clorar
 cloratada
 cloratado
@@ -8460,7 +8516,6 @@ clorofórmico
 cloroformización
 cloroformizar
 cloroformo
-cloromicetina
 cloroplasto
 clorosa
 clorosis
@@ -9049,6 +9104,7 @@ colaborante
 colaborar
 colaborativa
 colaborativo
+colacao
 colación
 colacionar
 colactánea
@@ -9114,6 +9170,8 @@ coleccionadora
 coleccionar
 coleccionismo
 coleccionista
+colechar
+colecho
 colecistectomía
 colecistitis
 colecta
@@ -9160,6 +9218,8 @@ coleo
 coleóptero
 colera
 cólera
+colerética
+colerético
 colérica
 colérico
 coleriforme
@@ -9209,6 +9269,7 @@ colicuativo
 colicuecer
 colidir
 coliflor
+coliforme
 coligación
 coligadura
 coligamiento
@@ -9424,6 +9485,7 @@ colquicácea
 colquicáceo
 cólquico
 colt
+coltán
 colúbrido
 coluda
 coludir
@@ -9434,6 +9496,7 @@ columbiforme
 columbina
 columbino
 columbio
+columbita
 columbrar
 columbrete
 columbrón
@@ -9851,6 +9914,8 @@ complañir
 compleción
 compleja
 complejidad
+complejización
+complejizar
 complejo
 complementación
 complementar
@@ -9908,6 +9973,7 @@ componible
 componimiento
 comporta
 comportable
+comportamental
 comportamiento
 comportar
 comporte
@@ -10047,6 +10113,7 @@ comuña
 comunal
 comunaleza
 comunalía
+comunalidad
 comunalmente
 comunera
 comunero
@@ -10401,6 +10468,7 @@ condotiero
 condrictio
 condrila
 condritis
+condrocito
 condrografía
 condrográfica
 condrográfico
@@ -11090,6 +11158,8 @@ constelada
 constelado
 constelar
 consternación
+consternador
+consternadora
 consternar
 constipación
 constipado
@@ -11406,6 +11476,7 @@ contracanal
 contracancha
 contracandela
 contracara
+contracargo
 contracarril
 contracarta
 contracción
@@ -11520,6 +11591,7 @@ contrainsurgente
 contrainteligencia
 contraír
 contrajudía
+contralateral
 contralecho
 contralizo
 contralla
@@ -11941,6 +12013,7 @@ copacabaneño
 copada
 copado
 copador
+copago
 copaiba
 copal
 copalchí
@@ -11981,6 +12054,7 @@ copera
 copernicana
 copernicanismo
 copernicano
+copernicio
 copero
 copeta
 copete
@@ -12124,6 +12198,7 @@ cora
 coracán
 corácea
 coráceo
+coracera
 coracero
 coracha
 coracina
@@ -12451,6 +12526,9 @@ coronamiento
 coronar
 coronaria
 coronario
+coronavírica
+coronavírico
+coronavirus
 coronda
 corondel
 coroneja
@@ -12732,6 +12810,8 @@ cortao
 cortapapel
 cortapapeles
 cortapastas
+cortapega
+cortapegar
 cortapicos
 cortapiés
 cortapisa
@@ -12750,6 +12830,8 @@ cortejadora
 cortejante
 cortejar
 cortejo
+corten
+cortén
 cortera
 cortero
 cortés
@@ -12912,6 +12994,7 @@ cosmonauta
 cosmonáutica
 cosmonáutico
 cosmonave
+cosmópolis
 cosmopolita
 cosmopolitismo
 cosmorama
@@ -13111,6 +13194,8 @@ coxquear
 coy
 coya
 coyán
+coyantina
+coyantino
 coyocho
 coyol
 coyolar
@@ -13391,6 +13476,8 @@ criocoagulación
 criogenia
 criogénica
 criogénico
+criogenización
+criogenizar
 criolla
 criollaje
 criollismo
@@ -13415,6 +13502,7 @@ criptograma
 criptología
 criptológica
 criptológico
+criptomoneda
 criptón
 criptorquidia
 críquet
@@ -13538,6 +13626,7 @@ croco
 crocodilo
 crol
 crolista
+croma
 cromado
 cromañón
 cromañona
@@ -13660,6 +13749,7 @@ crudeza
 crudía
 crudillo
 crudío
+crudité
 crudo
 cruel
 crueldad
@@ -13875,6 +13965,8 @@ cuarentavo
 cuarentén
 cuarentena
 cuarentenal
+cuarentenar
+cuarentenear
 cuarenteno
 cuarentón
 cuarentona
@@ -14051,6 +14143,8 @@ cubito
 cúbito
 cubo
 cuboides
+cubreboca
+cubrebocas
 cubrebotón
 cubrecabeza
 cubrecabezas
@@ -14383,6 +14477,8 @@ culotte
 culpa
 culpabilidad
 culpabilización
+culpabilizador
+culpabilizadora
 culpabilizar
 culpable
 culpablemente
@@ -14428,6 +14524,8 @@ cultura
 cultural
 culturalismo
 culturalista
+culturalización
+culturalizar
 culturar
 cultureta
 culturismo
@@ -14496,6 +14594,7 @@ cunacho
 cuñada
 cuñadería
 cuñadía
+cuñadismo
 cuñado
 cunaguaro
 cuñal
@@ -14656,6 +14755,7 @@ currante
 currar
 curre
 currelar
+currelo
 curri
 curricán
 curricular
@@ -14723,6 +14823,7 @@ cururo
 cururú
 curutié
 curuvica
+curuvicar
 curva
 curvada
 curvado

@@ -1092,6 +1092,7 @@ acenoria
 acensar
 acensuar
 acento
+acentor
 acentuación
 acentuadamente
 acentual
@@ -1133,7 +1134,9 @@ acercadora
 acercamiento
 acercanza
 acercar
+acerera
 acerería
+acerero
 acería
 acerico
 acerillo
@@ -1363,6 +1366,7 @@ acidalio
 acidemia
 acidez
 acidia
+acidificación
 acidificar
 acidimetría
 acidímetro
@@ -1738,6 +1742,7 @@ acribar
 acribia
 acribillar
 acrídido
+acrilamida
 acrílica
 acrílico
 acriminación
@@ -2160,6 +2165,7 @@ adinerado
 adintelado
 adiós
 adipocira
+adipocito
 adiposa
 adiposidad
 adiposis
@@ -2923,6 +2929,7 @@ afroasiática
 afroasiático
 afrocubana
 afrocubano
+afrodescendiente
 afrodisiaca
 afrodisíaca
 afrodisiaco
@@ -3015,8 +3022,8 @@ agapornis
 agar
 agarabatada
 agarabatado
-agaragar
 agar-agar
+agaragar
 agarbada
 agarbado
 agarbanzada
@@ -3377,6 +3384,7 @@ agroalimentación
 agroalimentaria
 agroalimentario
 agroambiental
+agrocombustible
 agroecología
 agroecológica
 agroecológico
@@ -3397,6 +3405,8 @@ agropecuario
 agroquímica
 agroquímico
 agror
+agrotóxica
+agrotóxico
 agroturismo
 agrumar
 agrupable
@@ -3595,6 +3605,7 @@ aguijoneo
 aguilando
 aguileña
 aguileño
+aguilera
 aguililla
 aguilón
 aguilonia
@@ -3877,6 +3888,7 @@ aislamiento
 aislante
 aislar
 aizcolari
+aizkolari
 aizoácea
 aizoáceo
 aj
@@ -4136,6 +4148,7 @@ alambrear
 alambrera
 alambrilla
 alambrista
+alambrón
 alameda
 alamín
 alamina
@@ -4194,6 +4207,7 @@ alarma
 alarmador
 alarmadora
 alarmante
+alarmantemente
 alarmar
 alármega
 alarmismo
@@ -4251,6 +4265,7 @@ albahaquilla
 albahía
 albahío
 albaida
+albal
 albalá
 albalaero
 albana
@@ -4274,6 +4289,7 @@ albañilear
 albañilería
 albañir
 albano
+albanokosovar
 albaquía
 albar
 albarán
@@ -4375,7 +4391,9 @@ albero
 alberque
 alberquera
 alberquero
+albiazul
 albicante
+albiceleste
 albigense
 albihar
 albilla
@@ -4386,6 +4404,7 @@ albinismo
 albino
 albita
 albitana
+albivioleta
 albo
 alboaire
 albogón
@@ -4397,6 +4416,7 @@ alboheza
 albohol
 albollón
 albóndiga
+albondigón
 albondiguilla
 alboquerón
 albor
@@ -4415,6 +4435,7 @@ alborocera
 alboronía
 alboroque
 alborotada
+alborotadamente
 alborotadiza
 alborotadizo
 alborotado
@@ -4850,6 +4871,8 @@ alentado
 alentador
 alentadora
 alentar
+alentejana
+alentejano
 alentosa
 alentoso
 aleonada
@@ -4891,6 +4914,8 @@ alesnada
 alesnado
 aleta
 aletada
+aletargada
+aletargado
 aletargador
 aletargadora
 aletargamiento
@@ -4918,6 +4943,9 @@ alevoso
 alexia
 alexifármaca
 alexifármaco
+alexitimia
+alexitímica
+alexitímico
 aleya
 alezna
 aleznada
@@ -5209,6 +5237,7 @@ aliáceo
 aliada
 aliado
 aliadófila
+aliadofilia
 aliadófilo
 aliaga
 aliagar
@@ -5220,6 +5249,8 @@ aliar
 aliara
 aliaria
 alias
+aliblanca
+aliblanco
 alible
 alibriestarse
 alicaída
@@ -5357,6 +5388,7 @@ alisadura
 alisal
 alisamiento
 alisar
+aliscafo
 aliseda
 alisios
 alisma
@@ -5794,6 +5826,9 @@ alomado
 alomar
 alombar
 alombra
+alometría
+alométrica
+alométrico
 alomorfo
 alón
 alona
@@ -5846,6 +5881,7 @@ alpechín
 alpechinera
 alpende
 alpendre
+alperujo
 alpes
 alpestre
 alpicoz
@@ -6149,6 +6185,9 @@ amación
 amacizar
 amacollar
 amada
+amadamada
+amadamado
+amadamarse
 amadeo
 amado
 amador
@@ -6562,6 +6601,8 @@ amerizaje
 amerizar
 amesetada
 amesetado
+amesetamiento
+amesetar
 amesnador
 amesnar
 amestizada
@@ -6841,6 +6882,7 @@ amotivacional
 amover
 amovible
 amovilidad
+amoxicilina
 amoyote
 ampalagua
 ampanga
@@ -6866,6 +6908,7 @@ ampere
 ampère
 amperímetro
 amperio
+ampicilina
 ampla
 amplexicaula
 amplexicaulo
@@ -6902,6 +6945,8 @@ ampulosidad
 ampuloso
 ampurdanés
 ampurdanesa
+ampuritana
+ampuritano
 amputación
 amputar
 amuchachada
@@ -7084,6 +7129,7 @@ analístico
 analítica
 analíticamente
 analítico
+analito
 analizable
 analizador
 analizadora
@@ -7107,6 +7153,8 @@ anamú
 ananá
 ananás
 ananay
+anancástica
+anancástico
 añangotarse
 anapelo
 anapéstica
@@ -7447,6 +7495,8 @@ anfígeno
 anfímacro
 anfineuro
 anfión
+anfipática
+anfipático
 anfípodo
 anfipróstila
 anfipróstilo
@@ -7661,6 +7711,7 @@ animalesco
 animalia
 animalias
 animalidad
+animalismo
 animalista
 animalística
 animalístico
@@ -7710,6 +7761,7 @@ anisar
 anisera
 anisero
 anisete
+anisocoria
 anisodonte
 anisofila
 anisofilo
@@ -7833,6 +7885,7 @@ anquirredondo
 anquiseca
 anquiseco
 ansa
+ansada
 ansarera
 ansarería
 ansarero
@@ -8022,6 +8075,7 @@ antiafrodisiaca
 antiafrodisíaca
 antiafrodisiaco
 antiafrodisíaco
+antiagregante
 antiálcali
 antialcalina
 antialcalino
@@ -8060,6 +8114,8 @@ antibritánica
 antibritánico
 antiburgués
 antiburguesa
+anticaída
+anticaídas
 anticancerosa
 anticanceroso
 anticanónica
@@ -8122,6 +8178,8 @@ anticonstitucionalidad
 anticontaminación
 anticontaminante
 anticonvencional
+anticonvulsiva
+anticonvulsivo
 anticorrosión
 anticorrosiva
 anticorrosivo
@@ -8219,6 +8277,7 @@ antifonal
 antifonario
 antifonera
 antifonero
+antiforme
 antifrancés
 antifrancesa
 antifranquismo
@@ -8325,6 +8384,8 @@ antimoral
 antimotines
 antinacionalismo
 antinacionalista
+antinarcótica
+antinarcótico
 antinatura
 antinatural
 antinazi
@@ -8425,6 +8486,7 @@ antirreligiosa
 antirreligioso
 antirrepublicana
 antirrepublicano
+antirretroviral
 antirreumática
 antirreumático
 antirrevolucionaria
@@ -8560,6 +8622,8 @@ antracosis
 antro
 antrópica
 antrópico
+antropocena
+antropoceno
 antropocéntrica
 antropocéntrico
 antropocentrismo
@@ -8767,6 +8831,7 @@ apalear
 apaleo
 apaletada
 apaletado
+apalizar
 apalmada
 apalpar
 apanada
@@ -9056,6 +9121,7 @@ apertar
 apertrechamiento
 apertrechar
 apertura
+aperturar
 aperturismo
 aperturista
 apesadumbrada
@@ -9112,6 +9178,8 @@ apilador
 apiladora
 apilamiento
 apilar
+apilonamiento
+apilonar
 apimpollarse
 apiñada
 apiñado
@@ -9220,6 +9288,7 @@ aplomado
 aplomar
 aplomo
 apnea
+apneísta
 apoastro
 apocada
 apocadamente
@@ -9748,6 +9817,11 @@ arachán
 arachana
 arácnida
 arácnido
+aracnófoba
+aracnofobia
+aracnofóbica
+aracnofóbico
+aracnófobo
 aracnoides
 aracnóloga
 aracnología
@@ -9832,6 +9906,8 @@ arazá
 arbelcorán
 arbellón
 arbequín
+arbequina
+arbequino
 arbitrable
 arbitradera
 arbitradero
@@ -10378,6 +10454,8 @@ arnaucho
 arnaúte
 arnequín
 arnés
+arnichesca
+arnichesco
 arnillo
 aro
 aroca
@@ -11211,6 +11289,7 @@ asconder
 ascondidamente
 ascondido
 ascondrijo
+ascórbico
 ascorosa
 ascoroso
 ascosa
@@ -11554,6 +11633,7 @@ aspadora
 aspálato
 aspalto
 aspar
+aspartamo
 aspaventar
 aspaventera
 aspaventero
@@ -12494,7 +12574,6 @@ aurea mediocritas
 aurelianense
 aureola
 aureolar
-aureomicina
 aurero
 aurgitana
 aurgitano
@@ -12511,6 +12590,7 @@ auriga
 aurígera
 aurígero
 auriñaciense
+aurisecular
 aurívora
 aurívoro
 aurora
@@ -12692,7 +12772,10 @@ autoinducida
 autoinducido
 autoinducir
 autoinjerto
+autoinmune
 autoinmunidad
+autoinmunitaria
+autoinmunitario
 autointoxicación
 autoinyectable
 autolatría
@@ -12736,6 +12819,7 @@ autonomización
 autonomizar
 autónomo
 autoparte
+autopartes
 autopartista
 autopase
 autopiloto
@@ -12775,6 +12859,8 @@ autorregulador
 autorreguladora
 autorregularse
 autorrelajación
+autorrepuesto
+autorrepuestos
 autorretrato
 autoservicio
 autosoma
@@ -12898,7 +12984,6 @@ avenediza
 avenedizo
 avenenar
 avenencia
-avenenteza
 avenible
 avenícea
 aveníceo
@@ -13021,6 +13106,7 @@ aviltar
 avinagrada
 avinagrado
 avinagrar
+avinenteza
 aviñonense
 aviñonés
 aviñonesa
@@ -13152,6 +13238,7 @@ ayudada
 ayudado
 ayudador
 ayudadora
+ayudamemoria
 ayudamiento
 ayudanta
 ayudante
@@ -13170,6 +13257,9 @@ ayuntador
 ayuntadora
 ayuntamiento
 ayuntar
+ayurveda
+ayurvédica
+ayurvédico
 ayuso
 ayustar
 ayuste

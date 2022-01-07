@@ -75,6 +75,7 @@ baccarat
 bacelar
 bacera
 baceta
+bacha
 bachaca
 bachaco
 bachata
@@ -103,6 +104,8 @@ bacilar
 bacillar
 bacillo
 bacilo
+baciloscopia
+baciloscopía
 bacín
 bacina
 bacinada
@@ -136,6 +139,7 @@ bacteriológico
 bacteriólogo
 bacteriostática
 bacteriostático
+bacteriuria
 bactriana
 bactriano
 báculo
@@ -243,6 +247,7 @@ bailarina
 baile
 bailecito
 bailejo
+bailenense
 bailete
 bailía
 bailiaje
@@ -553,6 +558,8 @@ bambalear
 bambalina
 bambalinón
 bambanear
+bambara
+bámbara
 bambarria
 bambear
 bambera
@@ -1029,6 +1036,8 @@ barraquero
 barraquismo
 barraquista
 barrar
+barrasco
+barrasquillo
 barreaero
 barreal
 barrealosa
@@ -1128,6 +1137,8 @@ bartolillo
 bartolina
 bártulos
 baruca
+barullenta
+barullento
 barullera
 barullero
 barullo
@@ -1347,6 +1358,7 @@ baturrillo
 baturro
 batuta
 batutera
+batutero
 batzoki
 baudio
 baúl
@@ -1698,6 +1710,7 @@ bentonita
 bentos
 benzina
 benzoato
+benzodiacepina
 benzoe
 benzoica
 benzoico
@@ -1767,6 +1780,8 @@ beritense
 berkelio
 berlandina
 berlanga
+berlanguiana
+berlanguiano
 berlín
 berlina
 berlinés
@@ -1888,6 +1903,7 @@ besuqueo
 beta
 betabel
 betabloqueante
+betacaroteno
 betarraga
 betarrata
 betatrón
@@ -1936,8 +1952,12 @@ biafreño
 biajaca
 biajaiba
 biangular
+biansada
+biansado
 bianual
 biarrota
+biatleta
+biatlón
 biaural
 biauricular
 biaxial
@@ -2221,6 +2241,7 @@ bimetalismo
 bimetalista
 bimilenaria
 bimilenario
+bimilenio
 biministra
 biministro
 bimotor
@@ -2236,6 +2257,8 @@ binario
 binazón
 bingarrote
 bingo
+binguera
+binguero
 binguí
 binocular
 binóculo
@@ -2264,6 +2287,7 @@ biodegradar
 biodiésel
 biodinámica
 biodinámico
+biodisponibilidad
 biodiversidad
 bioeléctrica
 bioelectricidad
@@ -2278,6 +2302,7 @@ bioestratigrafía
 bioetanol
 bioética
 bioético
+biofertilizante
 biofísica
 biofísico
 biogás
@@ -2302,12 +2327,14 @@ bioinformático
 bióloga
 biología
 biológica
+biológicamente
 biológico
 biologismo
 biólogo
 bioluminiscencia
 bioluminiscente
 bioma
+biomarcador
 biomasa
 biomaterial
 biombo
@@ -2323,6 +2350,7 @@ biomimetismo
 bionda
 biónica
 biónico
+biopic
 biopolímero
 bioprótesis
 biopsia
@@ -2332,6 +2360,7 @@ biorremediación
 biorritmo
 biosanitaria
 biosanitario
+bioseguridad
 biosensor
 biosfera
 biósfera
@@ -2344,6 +2373,7 @@ biotecnológica
 biotecnológico
 biotecnólogo
 bioterapia
+bioterio
 biótica
 biótico
 biotipo
@@ -2467,6 +2497,7 @@ bisté
 bistec
 bístola
 bistorta
+bistró
 bisturí
 bisulca
 bisulco
@@ -2485,6 +2516,8 @@ bitadura
 bítamo
 bitango
 bitar
+bitcoin
+bitcóin
 bíter
 bitinia
 bitínica
@@ -2507,6 +2540,8 @@ biunívoca
 bivalente
 bivalva
 bivalvo
+bivariada
+bivariado
 bivitelina
 bivitelino
 bixácea
@@ -2561,9 +2596,9 @@ bla
 blablá
 bla-bla-bla
 blablablá
-blackjack
 black jack
 black-jack
+blackjack
 blanca
 blancal
 blancarte
@@ -2627,6 +2662,7 @@ blanquinegra
 blanquinegro
 blanquinosa
 blanquinoso
+blanquivioleta
 blanquiza
 blanquizal
 blanquizar
@@ -2960,6 +2996,7 @@ bolinear
 bolinera
 bolinero
 bolisa
+bolista
 bolita
 bolívar
 bolivarense
@@ -3235,7 +3272,6 @@ bordoncillo
 bordonear
 bordoneo
 bordonera
-bordonería
 bordonero
 bordura
 boreal
@@ -3397,6 +3433,7 @@ bostezo
 bosticar
 bostoniana
 bostoniano
+bot
 bota
 botada
 botadero
@@ -3411,11 +3448,13 @@ botagueña
 botaina
 botalomo
 botalón
+botamanga
 botamay
 botamen
 botana
 botanear
 botánica
+botánicamente
 botánico
 botanista
 botar
@@ -3498,6 +3537,8 @@ bótox
 botrino
 botsuana
 botsuano
+botulínica
+botulínico
 botulismo
 botuto
 bou
@@ -3763,6 +3804,7 @@ bricbarca
 bricho
 bricolaje
 brida
+bridar
 bridecú
 bridge
 bridón
@@ -4342,6 +4384,8 @@ burillo
 burío
 burjaca
 burka
+burkinés
+burkinesa
 burla
 burladera
 burladero
@@ -4384,6 +4428,7 @@ burrito
 burro
 burrucha
 burrumbada
+burruño
 bursátil
 burserácea
 burseráceo
@@ -4422,6 +4467,7 @@ buscavidas
 busco
 buscón
 buscona
+buseca
 busera
 busero
 buseta
@@ -4436,6 +4482,7 @@ búsqueda
 busquilla
 busquillo
 búster
+bustier
 busto
 bustrofedon
 bustrofedón

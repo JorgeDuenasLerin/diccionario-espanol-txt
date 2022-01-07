@@ -76,6 +76,7 @@ tablacho
 tablada
 tablado
 tablaje
+tablajera
 tablajería
 tablajero
 tablao
@@ -110,6 +111,8 @@ tabonuco
 tabor
 tabú
 tabuco
+tabuización
+tabuizar
 tabulación
 tabulado
 tabulador
@@ -216,7 +219,6 @@ taguán
 taguara
 taha
 tahalí
-taharal
 tahelí
 taheña
 taheño
@@ -511,6 +513,8 @@ tamínea
 taminia
 tamiz
 tamización
+tamizado
+tamizaje
 tamizar
 tamo
 tamojal
@@ -603,7 +607,7 @@ tanque
 tanquero
 tanqueta
 tanta
-tantalio
+tantalita
 tántalo
 tantán
 tantarán
@@ -648,11 +652,13 @@ tapado
 tapador
 tapadora
 tapadura
+tapafeas
 tapafunda
 tapagoteras
 tapajuntas
 tápalo
 tapamiento
+tapanco
 tapaojos
 tapapecho
 tapapiés
@@ -833,6 +839,7 @@ tarateña
 tarateño
 taray
 tarayal
+tarayar
 taraza
 tarazana
 tarazanal
@@ -971,6 +978,8 @@ tartarizar
 tártaro
 tartera
 tartesia
+tartésica
+tartésico
 tartesio
 tartrato
 tártrica
@@ -1185,6 +1194,12 @@ tecnocracia
 tecnócrata
 tecnocrática
 tecnocrático
+tecnófila
+tecnofilia
+tecnófilo
+tecnófoba
+tecnofobia
+tecnófobo
 tecnografía
 tecnóloga
 tecnología
@@ -1281,6 +1296,7 @@ telarañoso
 tele
 teleadicta
 teleadicto
+teleasistencia
 telebanco
 telebasura
 telecabina
@@ -1336,6 +1352,8 @@ telele
 telemando
 telemática
 telemático
+telemedicina
+telemercadotecnia
 telemetría
 telemétrica
 telemétrico
@@ -1350,6 +1368,8 @@ teleobjetivo
 teleología
 teleológica
 teleológico
+teleoperador
+teleoperadora
 teleósteo
 telepate
 telepatía
@@ -1450,6 +1470,7 @@ tembloroso
 temblosa
 tembloso
 tembloteo
+teme
 temedera
 temedero
 temedor
@@ -1545,6 +1566,7 @@ tempranear
 tempranera
 tempranero
 tempranilla
+tempranillo
 temprano
 tempura
 temu
@@ -1552,6 +1574,7 @@ temucana
 temucano
 temulenta
 temulento
+temuquense
 ten
 tena
 teña
@@ -1628,6 +1651,7 @@ tener
 teneres
 tenería
 tenesmo
+teneso
 tengue
 tenguerengue
 tenia
@@ -1655,6 +1679,7 @@ tenorino
 tenorio
 tensa
 tensar
+tensegridad
 tensina
 tensino
 tensioactiva
@@ -1699,6 +1724,7 @@ teobroma
 teobromina
 teocali
 teocinte
+teocintle
 teocracia
 teócrata
 teocrática
@@ -2217,6 +2243,7 @@ tetrabranquial
 tetrabrik
 tetracampeón
 tetracampeona
+tetraciclina
 tetracordio
 tétrada
 tetradracma
@@ -2281,6 +2308,7 @@ texana
 texano
 texcocana
 texcocano
+tex-mex
 textal
 textear
 textil
@@ -2291,6 +2319,7 @@ texto
 textoria
 textorio
 textual
+textualidad
 textualista
 textura
 texturizar
@@ -2729,6 +2758,7 @@ tiroideo
 tiroides
 tirolés
 tirolesa
+tirolina
 tirón
 tirona
 tironear
@@ -2822,6 +2852,8 @@ tixotropía
 tiza
 tizana
 tizate
+tizianesca
+tizianesco
 tizna
 tiznada
 tiznado
@@ -2858,6 +2890,7 @@ toa
 toalla
 toallero
 toalleta
+toallita
 toar
 toba
 tobaja
@@ -2896,6 +2929,7 @@ tocamiento
 tocante
 tocaor
 tocaora
+tocapelotas
 tocapito
 tocar
 tocaria
@@ -3085,6 +3119,9 @@ tomista
 tomiza
 tomo
 tomografía
+tomográfica
+tomográfico
+tomógrafo
 tomón
 tomona
 ton
@@ -3196,6 +3233,8 @@ topetón
 topetuda
 topetudo
 topia
+topiaria
+topiario
 tópica
 topicalización
 topicalizar
@@ -3291,6 +3330,7 @@ toresana
 toresano
 torete
 toréutica
+toréutico
 torga
 torgada
 torgado
@@ -3688,6 +3728,7 @@ tractoreo
 tractorista
 tradición
 tradicional
+tradicionalidad
 tradicionalismo
 tradicionalista
 tradicionalmente
@@ -3976,6 +4017,7 @@ transfusor
 transfusora
 transgangética
 transgangético
+transgénero
 transgénica
 transgénico
 transgredir
@@ -3984,6 +4026,9 @@ transgresiva
 transgresivo
 transgresor
 transgresora
+transhumanidad
+transhumanismo
+transhumanista
 transiberiana
 transiberiano
 transición
@@ -4528,6 +4573,7 @@ trastiberino
 trastienda
 trasto
 trastocar
+trastoque
 trastornable
 trastornador
 trastornadora
@@ -4929,6 +4975,7 @@ trigaza
 trigésima
 trigésimo
 trigla
+triglicérido
 triglifo
 tríglifo
 trigo
@@ -5008,6 +5055,7 @@ trinchea
 trincheo
 trinchera
 trinchero
+trincheta
 trinchete
 trineo
 trinidad
@@ -5072,6 +5120,7 @@ tripón
 tripona
 tripsina
 tríptico
+triptófano
 triptongar
 triptongo
 tripuda
@@ -5203,7 +5252,9 @@ trol
 trola
 trole
 troleada
+trolear
 trolebús
+troleo
 trolera
 trolero
 trolla
@@ -5211,6 +5262,7 @@ tromba
 trombo
 tromboangitis
 trombocito
+trombocitopenia
 tromboflebitis
 trombón
 trombonista
@@ -5290,6 +5342,7 @@ tronza
 tronzadera
 tronzado
 tronzador
+tronzadora
 tronzar
 tronzo
 tropa
@@ -5579,6 +5632,7 @@ tumoración
 tumoral
 tumorosa
 tumoroso
+tumular
 tumularia
 tumulario
 túmulo
@@ -5622,6 +5676,7 @@ tunecina
 tunecino
 túnel
 tuneladora
+tunelar
 tunera
 tunería
 tunero
@@ -5635,6 +5690,8 @@ tunicada
 tunicado
 tunicela
 túnico
+túnida
+túnido
 tunjana
 tunjano
 tunjo
@@ -5712,6 +5769,7 @@ turbonada
 turbopropulsión
 turbopropulsor
 turborreactor
+turbosina
 turboventilador
 turboventiladora
 turbulencia
