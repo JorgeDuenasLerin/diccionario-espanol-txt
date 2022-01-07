@@ -1,4 +1,4 @@
-# List of all word according to RAE
+# List of all spanish words. Source RAE
 
 Work explained here:
 https://duenaslerin.com/diccionario-palabras-espanol-en-texto-script/
