@@ -9,7 +9,8 @@ import time
 
 
 UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"
-url="https://dle.rae.es/{}?m=31"
+url_list="https://dle.rae.es/{}?m=31"
+url_detail="https://dle.rae.es/{}"
 
 to_remove_from_title='Ir a la entrada '
 """
@@ -28,18 +29,24 @@ start_withs = letras.copy()
 
 ftodas = open("palabras_todas.txt", "w")
 
+
+def get_xtree(url, param):
+    req = Request(url.format(quote(param)), headers={'User-Agent': UA})
+    print (req.full_url)
+    print (start_withs)
+    webpage = urlopen(req)
+    htmlparser = etree.HTMLParser()
+    tree = etree.parse(webpage, htmlparser)
+    return tree
+
+
 while len(start_withs) != 0:
     palabra_start_with = start_withs.pop(0)
 
     if(palabra_start_with in ['app', 'docs', 'js']):
         continue
 
-    req = Request(url.format(quote(palabra_start_with)), headers={'User-Agent': UA})
-    print (req.full_url)
-    print (start_withs)
-    webpage = urlopen(req)
-    htmlparser = etree.HTMLParser()
-    tree = etree.parse(webpage, htmlparser)
+    tree = get_xtree(url_list, palabra_start_with)
     res = tree.xpath('//*[@id="resultados"]/*/div[@class="n1"]/a/@title')
 
     # Se repiten palabras. Cuando por ejemplo aba tiene más de 30 y se exapande
@@ -50,6 +57,19 @@ while len(start_withs) != 0:
         for p in pal_clean:
             print(p)
             ftodas.write(p+'\n')
+            # Try conjugación
+            tree = get_xtree(url_detail, p)
+            contains_conjug = tree.xpath('//*[@id="resultados"]/*/a[@class="e2"]/@title')
+            if len(contains_conjug) > 0:
+                print("^" * 80)
+                print(contains_conjug)
+                # get all contant in tds
+                conjug = tree.xpath('//div[@id="conjugacion"]//td//text()')
+                conjug_clean = ' '.join(conjug).replace(', ', ' ').replace(' / ', ' ').split(' ')
+                for conj in conjug_clean:
+                    if(conj!=''):
+                        print(conj)
+                        ftodas.write(conj+'\n')
 
     if(len(res)>30):
         print("!" * 80)
