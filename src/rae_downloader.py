@@ -31,12 +31,21 @@ ftodas = open("palabras_todas.txt", "w")
 
 
 def get_xtree(url, param):
-    req = Request(url.format(quote(param)), headers={'User-Agent': UA})
-    print (req.full_url)
-    print (start_withs)
-    webpage = urlopen(req)
-    htmlparser = etree.HTMLParser()
-    tree = etree.parse(webpage, htmlparser)
+    tree = None
+    attemps = 5
+    while attemps > 0 and tree == None:
+        try:
+            req = Request(url.format(quote(param)), headers={'User-Agent': UA})
+            print (req.full_url)
+            print (start_withs)
+            webpage = urlopen(req)
+            htmlparser = etree.HTMLParser()
+            tree = etree.parse(webpage, htmlparser)
+        except Exception as e:
+            attemps -= 1
+            print(str(e))
+            time.sleep(0.5)
+
     return tree
 
 
