@@ -24,11 +24,10 @@ bash src/spliter.sh
 
 The `0_palabras_todas.txt` file is needed.
 
-Go to the `diccionario-espanol-txt/src` folder and running the `length.sh` file will create the `diccionario-espanol-txt/length` folder with the words classified by its length.
+Inside the `diccionario-espanol-txt` folder and running the `length.sh` file will create the `length` folder with the words classified by its length.
 
 ```
-chmod +x length.sh
-./length.sh
+bash src/length.sh
 ```
 
 ### Classify words by their first letter
@@ -38,11 +37,10 @@ The `0_palabras_todas.txt` file is needed.
 
 Due to the lack of `palabras_todas.txt` file (creating it will last so many hours) the `spliter.sh` file will not work. So this script works with the `0_palabras_todas.txt` file.
 
-Go to the `diccionario-espanol-txt/src` folder and running the `starting_letter.sh` file will create the `diccionario-espanol-txt/starting_letter` folder with the words classified by the first letter.
+Inside the `diccionario-espanol-txt` folder and running the `starting_letter.sh` file will create the `starting_letter` folder with the words classified by the first letter.
 
 ```
-chmod +x starting_letter.sh
-./starting_letter.sh
+bash src/starting_letter.sh
 ```
 
 
