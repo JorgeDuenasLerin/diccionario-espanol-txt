@@ -6,7 +6,13 @@ from urllib.parse   import quote
 from urllib.request import Request, urlopen
 from lxml import etree
 import time
+import argparse
 
+parser = argparse.ArgumentParser(description='RAE Downloader.')
+parser.add_argument('--conjugaciones', action='store_true')
+parser.add_argument('--skip-conjugaciones', dest='conjugaciones', action='store_false')
+parser.set_defaults(conjugaciones=True)
+args = parser.parse_args()
 
 UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"
 url_list="https://dle.rae.es/{}?m=31"
@@ -69,7 +75,7 @@ while len(start_withs) != 0:
             # Try conjugación
             tree = get_xtree(url_detail, p)
             contains_conjug = tree.xpath('//*[@id="resultados"]/*/a[@class="e2"]/@title')
-            if len(contains_conjug) > 0:
+            if args.conjugaciones and len(contains_conjug) > 0:
                 print("^" * 80)
                 print(contains_conjug)
                 # get all contant in tds

@@ -9,6 +9,7 @@ Updated with RAE server in: 2022-01-07
 ## Run
 
 Download all data from RAE
+
 ```
 python3 src/rae_downloader.py
 ```
@@ -18,6 +19,18 @@ It generates the file ```data/palabras_todas.txt```
 Split in diferent files
 ```
 bash src/spliter.sh
+```
+
+Usage
+```
+usage: rae_downloader.py [-h] [--conjugaciones] [--skip-conjugaciones]
+
+RAE Downloader.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --conjugaciones
+  --skip-conjugaciones
 ```
 
 ### Classify words by their length
