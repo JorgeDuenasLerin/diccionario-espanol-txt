@@ -12,6 +12,7 @@ parser = argparse.ArgumentParser(description='RAE Downloader.')
 parser.add_argument('--conjugaciones', action='store_true')
 parser.add_argument('--skip-conjugaciones', dest='conjugaciones', action='store_false')
 parser.set_defaults(conjugaciones=True)
+parser.add_argument('--outfile', metavar='outfile', type=str, default="palabras_todas.txt")
 args = parser.parse_args()
 
 UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"
@@ -33,7 +34,7 @@ letras = ['a', 'á', 'b', 'c', 'd', 'e', 'é', 'f', 'g', 'h', 'i', 'í', 'j', 'k
 
 start_withs = letras.copy()
 
-ftodas = open("palabras_todas.txt", "w")
+ftodas = open(args.outfile, "w")
 
 
 def get_xtree(url, param):
