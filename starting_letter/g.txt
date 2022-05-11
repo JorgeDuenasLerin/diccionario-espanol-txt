@@ -269,10 +269,10 @@ galactosa
 galafate
 galaica
 galaico
-galaico-portugués
 galaicoportugués
-galaico-portuguesa
+galaico-portugués
 galaicoportuguesa
+galaico-portuguesa
 galamera
 galamero
 galamperna
@@ -732,10 +732,10 @@ gallegada
 gallego
 gallegohablante
 gallegoparlante
-gallego-portugués
 gallegoportugués
-gallego-portuguesa
+gallego-portugués
 gallegoportuguesa
+gallego-portuguesa
 galleguense
 galleguice
 galleguicé

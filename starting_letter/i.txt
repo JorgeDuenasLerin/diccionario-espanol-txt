@@ -7137,10 +7137,10 @@ indoeuropea
 indoeuropeo
 indogermánica
 indogermánico
-indo-irania
 indoirania
-indo-iranio
+indo-irania
 indoiranio
+indo-iranio
 indolencia
 indolente
 indolentemente
@@ -8064,10 +8064,10 @@ infectiva
 infectivo
 infecto
 infectó
-infecto-contagiosa
 infectocontagiosa
-infecto-contagioso
+infecto-contagiosa
 infectocontagioso
+infecto-contagioso
 infectología
 infecunda
 infecundarse

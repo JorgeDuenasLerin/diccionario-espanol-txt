@@ -4,7 +4,7 @@ Work explained here:
 https://duenaslerin.com/diccionario-palabras-espanol-en-texto-script/
 
 
-Updated with RAE server in: 2022-01-07
+Updated with RAE server in: 2022-05-11
 
 ## Run
 

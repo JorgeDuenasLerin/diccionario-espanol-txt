@@ -2582,10 +2582,10 @@ malavés
 malavez
 malaya
 malayo
-malayo-polinesia
 malayopolinesia
-malayo-polinesio
+malayo-polinesia
 malayopolinesio
+malayo-polinesio
 malbarata
 malbaratá
 malbarataba
@@ -20875,8 +20875,8 @@ mixtificación
 mixtificador
 mixtificadora
 mixtificar
-mixti fori
 mixtifori
+mixti fori
 mixtilínea
 mixtilíneo
 mixtión

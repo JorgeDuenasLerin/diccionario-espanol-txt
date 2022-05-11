@@ -21896,8 +21896,8 @@ sotoministro
 sotorrey
 sotreta
 sotrozo
-sotto voce
 sottovoce
+sotto voce
 sotuer
 soturna
 soturno
@@ -24858,8 +24858,8 @@ suicidio
 suicido
 suicidó
 suido
-sui géneris
 suigéneris
+sui géneris
 suindá
 suirirí
 suite

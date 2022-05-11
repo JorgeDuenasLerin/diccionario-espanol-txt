@@ -1291,8 +1291,8 @@ raga
 ragadía
 raglan
 raglán
-rag-time
 ragtime
+rag-time
 ragú
 ragua
 ragusea

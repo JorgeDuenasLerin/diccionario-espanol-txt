@@ -2797,10 +2797,10 @@ nihil obstat
 nihonio
 nilad
 nilón
-nilo-sahariana
 nilosahariana
-nilo-sahariano
+nilo-sahariana
 nilosahariano
+nilo-sahariano
 nilótica
 nilótico
 nimba

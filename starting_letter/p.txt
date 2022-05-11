@@ -12598,8 +12598,8 @@ percalina
 percán
 percance
 percanzar
-per cápita
 percápita
+per cápita
 percata
 percatá
 percataba
@@ -23748,10 +23748,10 @@ playases
 playaste
 playasteis
 playazo
-play back
 playback
-play boy
+play back
 playboy
+play boy
 playe
 playé
 playéis

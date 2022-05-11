@@ -77257,8 +77257,8 @@ espaciosamente
 espaciosidad
 espacioso
 espaciotemporal
-espacio-tiempo
 espaciotiempo
+espacio-tiempo
 espada
 espadá
 espadaba
@@ -81590,10 +81590,10 @@ esquilo
 esquiló
 esquilón
 esquimal
-esquimal-aleutiana
 esquimalaleutiana
-esquimal-aleutiano
+esquimal-aleutiana
 esquimalaleutiano
+esquimal-aleutiano
 esquimo
 esquina
 esquiná
@@ -88218,8 +88218,8 @@ evoquemos
 evoquen
 evoques
 ex
-ex abrupto
 exabrupto
+ex abrupto
 exacción
 exacerba
 exacerbá

@@ -6209,10 +6209,10 @@ camisote
 camita
 camítica
 camítico
-camito-semítica
 camitosemítica
-camito-semítico
+camito-semítica
 camitosemítico
+camito-semítico
 camoatí
 camocán
 camocha
@@ -29078,10 +29078,10 @@ chupábamos
 chupaban
 chupabas
 chupacabras
-chupa-chup
 chupachup
-chupa-chups
+chupa-chup
 chupachups
+chupa-chups
 chupachús
 chupacirios
 chupad
