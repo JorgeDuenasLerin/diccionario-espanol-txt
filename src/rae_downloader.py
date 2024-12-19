@@ -5,61 +5,40 @@
 from urllib.parse   import quote
 from urllib.request import Request, urlopen
 from lxml import etree
+
 import time
 import argparse
+import pickle
+
+from helpers import get_xtree, try_conjugacion, try_plural, try_me_siento_con_suerte, url_list, skip
+
 
 parser = argparse.ArgumentParser(description='RAE Downloader.')
+parser.add_argument('--ix', metavar='ix', type=int, required=True, help='Start with this letter index')
 parser.add_argument('--conjugaciones', action='store_true')
 parser.add_argument('--skip-conjugaciones', dest='conjugaciones', action='store_false')
 parser.set_defaults(conjugaciones=True)
-parser.add_argument('--outfile', metavar='outfile', type=str, default="palabras_todas.txt")
+parser.add_argument('--plurals', default=True)
+parser.add_argument('--outfile', metavar='outfile no extension', type=str, default="data/raw/allwords")
 args = parser.parse_args()
 
-UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"
-url_list="https://dle.rae.es/{}?m=31"
-url_detail="https://dle.rae.es/{}"
-
-to_remove_from_title='Ir a la entrada '
-"""
-Usamos title por que el contenido en determinadas situaciones cambia:
-<a data-cat="FETCH" data-acc="LISTA EMPIEZA POR" data-eti="abollado" title="Ir a la entrada abollado, abollada" href="/abollado">abollado<sup>1</sup>, da</a>
-"""
-skip = len(to_remove_from_title)
 
 letras = ['a', 'á', 'b', 'c', 'd', 'e', 'é', 'f', 'g', 'h', 'i', 'í', 'j', 'k', 'l', 'm',
              'n', 'ñ', 'o', 'ó', 'p', 'q', 'r', 's', 't', 'u', 'ú', 'ü', 'v', 'w', 'x', 'y', 'z']
-
-#Para comprobar la necesidad de title
-#letras = ['abonado']
-
-start_withs = letras.copy()
-
-ftodas = open(args.outfile, "w")
-
-
-def get_xtree(url, param):
-    tree = None
-    attemps = 5
-    while attemps > 0 and tree == None:
-        try:
-            req = Request(url.format(quote(param)), headers={'User-Agent': UA})
-            print (req.full_url)
-            print (start_withs)
-            webpage = urlopen(req)
-            htmlparser = etree.HTMLParser()
-            tree = etree.parse(webpage, htmlparser)
-        except Exception as e:
-            attemps -= 1
-            print(str(e))
-            time.sleep(0.5)
-
-    return tree
+# test letras = ['a', 'á']
+letras_count = len(letras)
+start = letras[args.ix]
+print(f"Running with {args.ix}/{letras_count}: {start}")
+start_with = [start]
+dict_dump = {}
 
 
-while len(start_withs) != 0:
-    palabra_start_with = start_withs.pop(0)
+while len(start_with) != 0:
+    palabra_start_with = start_with.pop(0)
 
-    if(palabra_start_with in ['app', 'docs', 'js']):
+    try_me_siento_con_suerte(pal_ix, dict_dump)
+
+    if(palabra_start_with in ['app', 'docs', 'js']): # RAE servers do not like this
         continue
 
     tree = get_xtree(url_list, palabra_start_with)
@@ -69,30 +48,29 @@ while len(start_withs) != 0:
     # abaa, abab, etc... las primeras palabras no aparecen: aba
     for pal in res:
         pal_clean = pal[skip:]
-        pal_clean = pal_clean.split(", ")
-        for p in pal_clean:
-            print(p)
-            ftodas.write(p+'\n')
-            # Try conjugación
-            tree = get_xtree(url_detail, p)
-            contains_conjug = tree.xpath('//*[@id="resultados"]/*/a[@class="e2"]/@title')
-            if args.conjugaciones and len(contains_conjug) > 0:
-                print("^" * 80)
-                print(contains_conjug)
-                # get all contant in tds
-                conjug = tree.xpath('//div[@id="conjugacion"]//td//text()')
-                conjug_clean = ' '.join(conjug).replace(', ', ' ').replace(' / ', ' ').split(' ')
-                for conj in conjug_clean:
-                    if(conj!=''):
-                        print(conj)
-                        ftodas.write(conj+'\n')
+        pal_list = []
+
+        if ", " not in pal_clean:
+            pal_list.append(pal_clean)
+        else:
+            pal_clean = pal_clean.split(", ")
+            for pal_clean_multi in pal_clean:
+                pal_list.append(pal_clean_multi)
+        
+        for pal_ix in pal_list:
+            print(pal_ix)
+            dict_dump[pal_ix] = pal_ix
+            if args.conjugaciones:
+                try_conjugacion(pal_ix, dict_dump)
+            try_plural(pal_ix, dict_dump)
+
+               
 
     if(len(res)>30):
         print("!" * 80)
         print("EXAPEND: " + palabra_start_with)
         expand = [palabra_start_with + l for l in letras]
-        start_withs = expand + start_withs
+        start_with = expand + start_with
 
 
-ftodas.close()
-exit()
+pickle.dump(dict_dump, open(f"{args.outfile}_{start}.pkl", "wb"))

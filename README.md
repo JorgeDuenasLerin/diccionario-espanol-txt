@@ -3,8 +3,7 @@
 Work explained here:
 https://duenaslerin.com/diccionario-palabras-espanol-en-texto-script/
 
-
-Updated with RAE server in: 2022-05-11
+Updated with RAE server in: 2024-05-22
 
 ## Run
 
@@ -14,7 +13,11 @@ Download all data from RAE
 python3 src/rae_downloader.py
 ```
 
-It generates the file ```data/palabras_todas.txt```
+It generates the file ```data/palabras_todas.txt``` by default.
+
+## Clean and order
+
+
 
 Split in diferent files
 ```
@@ -24,6 +27,7 @@ bash src/spliter.sh
 Usage
 ```
 usage: rae_downloader.py [-h] [--conjugaciones] [--skip-conjugaciones]
+                         [--outfile outfile]
 
 RAE Downloader.
 
@@ -31,6 +35,13 @@ optional arguments:
   -h, --help            show this help message and exit
   --conjugaciones
   --skip-conjugaciones
+  --outfile outfile
+```
+
+Words in file has no order and can be duplicades:
+
+```
+cat palabras_todas.txt | grep -v '.*-$' | grep -v ^- | sort | uniq > 0_palabras_todas.txt
 ```
 
 ### Classify words by their length
@@ -59,7 +70,17 @@ bash src/starting_letter.sh
 
 ## Conjugaciones
 
-primera: ababillarse
-Dicho de un animal: Enfermar de la babilla.
 
-última:
+## Remember
+
+Doble check after download:
+
+- There is words starting by á, é, etc.
+- Check plurals: gato, gata, gatos, gatas.
+
+## Changelog
+
+2024-10-20:
+- Some variable names typos corrected
+- Try to get plurals
+- Verifica ababílla
