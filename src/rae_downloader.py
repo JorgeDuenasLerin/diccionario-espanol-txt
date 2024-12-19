@@ -25,7 +25,7 @@ args = parser.parse_args()
 
 letras = ['a', 'á', 'b', 'c', 'd', 'e', 'é', 'f', 'g', 'h', 'i', 'í', 'j', 'k', 'l', 'm',
              'n', 'ñ', 'o', 'ó', 'p', 'q', 'r', 's', 't', 'u', 'ú', 'ü', 'v', 'w', 'x', 'y', 'z']
-# test letras = ['a', 'á']
+#letras = ['s', 'i', 'í']
 letras_count = len(letras)
 start = letras[args.ix]
 print(f"Running with {args.ix}/{letras_count}: {start}")
@@ -35,11 +35,11 @@ dict_dump = {}
 
 while len(start_with) != 0:
     palabra_start_with = start_with.pop(0)
-
-    try_me_siento_con_suerte(pal_ix, dict_dump)
-
+    
     if(palabra_start_with in ['app', 'docs', 'js']): # RAE servers do not like this
         continue
+    
+    try_me_siento_con_suerte(palabra_start_with, dict_dump)
 
     tree = get_xtree(url_list, palabra_start_with)
     res = tree.xpath('//*[@id="resultados"]/*/div[@class="n1"]/a/@title')
@@ -62,9 +62,9 @@ while len(start_with) != 0:
             dict_dump[pal_ix] = pal_ix
             if args.conjugaciones:
                 try_conjugacion(pal_ix, dict_dump)
-            try_plural(pal_ix, dict_dump)
-
-               
+            # try_plural(pal_ix, dict_dump)
+            
+    
 
     if(len(res)>30):
         print("!" * 80)

@@ -4,6 +4,7 @@ Work explained here:
 https://duenaslerin.com/diccionario-palabras-espanol-en-texto-script/
 
 Updated with RAE server in: 2024-05-22
+Updated with RAE server in: 2024-05-22
 
 ## Run
 
@@ -12,6 +13,11 @@ Download all data from RAE
 ```
 python3 src/rae_downloader.py
 ```
+
+It generates the file ```data/palabras_todas.txt``` by default.
+
+## Clean and order
+
 
 It generates the file ```data/palabras_todas.txt``` by default.
 
@@ -28,6 +34,7 @@ Usage
 ```
 usage: rae_downloader.py [-h] [--conjugaciones] [--skip-conjugaciones]
                          [--outfile outfile]
+                         [--outfile outfile]
 
 RAE Downloader.
 
@@ -35,6 +42,13 @@ optional arguments:
   -h, --help            show this help message and exit
   --conjugaciones
   --skip-conjugaciones
+  --outfile outfile
+```
+
+Words in file has no order and can be duplicades:
+
+```
+cat palabras_todas.txt | grep -v '.*-$' | grep -v ^- | sort | uniq > 0_palabras_todas.txt
   --outfile outfile
 ```
 
